@@ -6,3 +6,4 @@ scikit_learn==1.8.0
 selenium==4.44.0
 tf_keras==2.20.1
 webdriver_manager==4.0.2
+lxml==6.1.1

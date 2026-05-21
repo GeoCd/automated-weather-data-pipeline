@@ -1,3 +1,4 @@
 utils/
+__pychache__/
 
 .env
