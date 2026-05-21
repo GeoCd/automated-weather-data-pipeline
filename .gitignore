@@ -1,4 +1,5 @@
 utils/
-__pychache__/
+__pycache__/ -f
 
+*.html
 .env
