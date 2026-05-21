@@ -45,12 +45,12 @@ class WorkflowConfiguration:
                                                                     ])
 
     # Cleaning thresholds
-    TEMP_MIN:   int = 20      # °F
-    TEMP_MAX:   int = 100     # °F
-    PRES_MIN:   int = 22      # inHg
-    PRES_MAX:   int = 26      # inHg
-    HUM_MIN:    int = 0       # %
-    HUM_MAX:    int = 100     # %
-    WIND_MAX:   int = 80      # mph
+    TEMP_MIN:           int = 20      # °F
+    TEMP_MAX:           int = 100     # °F
+    PRES_MIN:           int = 22      # inHg
+    PRES_MAX:           int = 26      # inHg
+    HUM_MIN:            int = 0       # %
+    HUM_MAX:            int = 100     # %
+    WIND_MAX:           int = 80      # mph
 
-    PIPELINE_MODE: str = "batch"
+    PIPELINE_MODE:      str = "batch"
