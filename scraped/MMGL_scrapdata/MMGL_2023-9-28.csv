@@ -1,0 +1,26 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:40 AM,68 °F,63 °F,83 °%,W,7 °mph,0 °mph,25.06 °in,0.0 °in,Mostly Cloudy
+1,1:40 AM,68 °F,63 °F,83 °%,WSW,7 °mph,0 °mph,25.06 °in,0.0 °in,Cloudy
+2,2:48 AM,68 °F,63 °F,83 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Cloudy
+3,3:42 AM,66 °F,63 °F,88 °%,CALM,0 °mph,0 °mph,25.06 °in,0.0 °in,Cloudy
+4,4:46 AM,68 °F,64 °F,88 °%,CALM,0 °mph,0 °mph,25.06 °in,0.0 °in,Cloudy
+5,5:48 AM,68 °F,63 °F,83 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Cloudy
+6,6:40 AM,68 °F,63 °F,83 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Mostly Cloudy
+7,7:40 AM,68 °F,63 °F,83 °%,CALM,0 °mph,0 °mph,25.09 °in,0.0 °in,Haze
+8,8:40 AM,70 °F,63 °F,78 °%,CALM,0 °mph,0 °mph,25.09 °in,0.0 °in,Haze
+9,9:40 AM,73 °F,61 °F,65 °%,CALM,0 °mph,0 °mph,25.10 °in,0.0 °in,Mostly Cloudy
+10,10:40 AM,75 °F,61 °F,61 °%,CALM,0 °mph,0 °mph,25.10 °in,0.0 °in,Mostly Cloudy
+11,11:40 AM,77 °F,59 °F,54 °%,CALM,0 °mph,0 °mph,25.09 °in,0.0 °in,Mostly Cloudy
+12,12:40 PM,81 °F,57 °F,45 °%,CALM,0 °mph,0 °mph,25.06 °in,0.0 °in,Mostly Cloudy
+13,1:40 PM,82 °F,59 °F,45 °%,CALM,0 °mph,0 °mph,25.02 °in,0.0 °in,Partly Cloudy
+14,2:44 PM,82 °F,59 °F,45 °%,SE,5 °mph,0 °mph,24.99 °in,0.0 °in,Partly Cloudy
+15,3:40 PM,86 °F,59 °F,40 °%,CALM,0 °mph,0 °mph,24.98 °in,0.0 °in,Partly Cloudy
+16,4:47 PM,82 °F,57 °F,42 °%,NNW,13 °mph,0 °mph,24.96 °in,0.0 °in,Cloudy
+17,5:18 PM,73 °F,52 °F,47 °%,SW,8 °mph,20 °mph,24.99 °in,0.0 °in,Thunder
+18,5:50 PM,72 °F,57 °F,60 °%,WNW,12 °mph,0 °mph,24.99 °in,0.0 °in,Mostly Cloudy
+19,6:46 PM,72 °F,59 °F,64 °%,W,13 °mph,0 °mph,25.00 °in,0.0 °in,Mostly Cloudy
+20,7:52 PM,68 °F,55 °F,64 °%,SW,6 °mph,0 °mph,25.02 °in,0.0 °in,Mostly Cloudy
+21,8:43 PM,70 °F,55 °F,60 °%,WNW,5 °mph,0 °mph,25.03 °in,0.0 °in,Mostly Cloudy
+22,9:49 PM,68 °F,59 °F,73 °%,CALM,0 °mph,0 °mph,25.03 °in,0.0 °in,Partly Cloudy
+23,10:48 PM,68 °F,59 °F,73 °%,SE,3 °mph,0 °mph,25.05 °in,0.0 °in,Partly Cloudy
+24,11:47 PM,66 °F,59 °F,78 °%,CALM,0 °mph,0 °mph,25.04 °in,0.0 °in,Partly Cloudy

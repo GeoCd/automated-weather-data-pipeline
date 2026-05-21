@@ -1,0 +1,27 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:42 AM,66 °F,59 °F,78 °%,CALM,0 °mph,0 °mph,25.09 °in,0.0 °in,Fair
+1,1:40 AM,64 °F,59 °F,83 °%,CALM,0 °mph,0 °mph,25.10 °in,0.0 °in,Fair
+2,2:41 AM,63 °F,59 °F,88 °%,CALM,0 °mph,0 °mph,25.09 °in,0.0 °in,Fair
+3,3:41 AM,63 °F,59 °F,88 °%,CALM,0 °mph,0 °mph,25.10 °in,0.0 °in,Partly Cloudy
+4,4:52 AM,63 °F,59 °F,88 °%,CALM,0 °mph,0 °mph,25.09 °in,0.0 °in,Partly Cloudy
+5,5:43 AM,63 °F,61 °F,94 °%,CALM,0 °mph,0 °mph,25.10 °in,0.0 °in,Partly Cloudy
+6,6:41 AM,63 °F,61 °F,94 °%,CALM,0 °mph,0 °mph,25.12 °in,0.0 °in,Mostly Cloudy
+7,7:43 AM,66 °F,61 °F,83 °%,CALM,0 °mph,0 °mph,25.13 °in,0.0 °in,Partly Cloudy
+8,8:40 AM,68 °F,61 °F,78 °%,E,5 °mph,0 °mph,25.16 °in,0.0 °in,Mostly Cloudy
+9,9:40 AM,73 °F,63 °F,69 °%,ENE,5 °mph,0 °mph,25.16 °in,0.0 °in,Partly Cloudy
+10,10:40 AM,73 °F,61 °F,65 °%,E,3 °mph,0 °mph,25.16 °in,0.0 °in,Partly Cloudy
+11,11:40 AM,75 °F,61 °F,61 °%,ESE,7 °mph,0 °mph,25.15 °in,0.0 °in,Partly Cloudy
+12,12:44 PM,79 °F,63 °F,57 °%,ENE,5 °mph,0 °mph,25.13 °in,0.0 °in,Partly Cloudy
+13,1:40 PM,79 °F,57 °F,47 °%,E,8 °mph,0 °mph,25.11 °in,0.0 °in,Partly Cloudy
+14,2:43 PM,81 °F,59 °F,48 °%,ESE,9 °mph,0 °mph,25.08 °in,0.0 °in,Partly Cloudy
+15,3:42 PM,82 °F,57 °F,42 °%,NNE,6 °mph,0 °mph,25.06 °in,0.0 °in,Mostly Cloudy
+16,4:43 PM,77 °F,57 °F,50 °%,SE,10 °mph,0 °mph,25.05 °in,0.0 °in,Light Rain
+17,5:13 PM,81 °F,59 °F,48 °%,ESE,3 °mph,0 °mph,25.05 °in,0.0 °in,Mostly Cloudy
+18,5:42 PM,79 °F,59 °F,51 °%,SSE,5 °mph,0 °mph,25.06 °in,0.0 °in,Cloudy
+19,6:41 PM,68 °F,59 °F,73 °%,NE,24 °mph,0 °mph,25.13 °in,0.0 °in,Light Rain / Windy
+20,6:45 PM,68 °F,59 °F,73 °%,ENE,14 °mph,29 °mph,25.13 °in,0.0 °in,Heavy Rain
+21,7:43 PM,66 °F,63 °F,88 °%,CALM,0 °mph,0 °mph,25.13 °in,0.0 °in,Cloudy
+22,8:42 PM,66 °F,64 °F,94 °%,CALM,0 °mph,0 °mph,25.13 °in,0.0 °in,Cloudy
+23,9:43 PM,66 °F,63 °F,88 °%,E,6 °mph,0 °mph,25.13 °in,0.0 °in,Cloudy
+24,10:42 PM,64 °F,63 °F,94 °%,CALM,0 °mph,0 °mph,25.16 °in,0.0 °in,Mostly Cloudy
+25,11:46 PM,64 °F,63 °F,94 °%,S,2 °mph,0 °mph,25.17 °in,0.0 °in,Mostly Cloudy

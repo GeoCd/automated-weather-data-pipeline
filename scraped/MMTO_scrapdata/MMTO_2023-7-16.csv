@@ -1,0 +1,28 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:44 AM,55 °F,50 °F,82 °%,SE,3 °mph,0 °mph,22.21 °in,0.0 °in,Fair
+1:41 AM,55 °F,50 °F,82 °%,CALM,0 °mph,0 °mph,22.21 °in,0.0 °in,Mostly Cloudy
+2:41 AM,55 °F,50 °F,82 °%,ESE,3 °mph,0 °mph,22.20 °in,0.0 °in,Fair
+3:40 AM,54 °F,46 °F,77 °%,SE,6 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+4:41 AM,50 °F,46 °F,87 °%,NE,3 °mph,0 °mph,22.18 °in,0.0 °in,Fair
+5:46 AM,48 °F,46 °F,93 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Fair
+6:42 AM,50 °F,46 °F,87 °%,CALM,0 °mph,0 °mph,22.21 °in,0.0 °in,Fair
+7:22 AM,55 °F,50 °F,82 °%,CALM,0 °mph,0 °mph,22.21 °in,0.0 °in,Fair
+7:48 AM,57 °F,48 °F,72 °%,CALM,0 °mph,0 °mph,22.22 °in,0.0 °in,Fair
+8:20 AM,61 °F,50 °F,68 °%,CALM,0 °mph,0 °mph,22.22 °in,0.0 °in,Fair
+8:45 AM,61 °F,48 °F,63 °%,CALM,0 °mph,0 °mph,22.22 °in,0.0 °in,Fair
+9:40 AM,64 °F,50 °F,59 °%,NE,5 °mph,0 °mph,22.22 °in,0.0 °in,Fair
+10:41 AM,66 °F,46 °F,49 °%,NW,8 °mph,0 °mph,22.22 °in,0.0 °in,Fair
+11:46 AM,70 °F,45 °F,40 °%,ENE,5 °mph,0 °mph,22.21 °in,0.0 °in,Fair
+12:42 PM,72 °F,45 °F,38 °%,S,6 °mph,0 °mph,22.20 °in,0.0 °in,Fair
+1:46 PM,72 °F,37 °F,29 °%,ENE,7 °mph,0 °mph,22.19 °in,0.0 °in,Partly Cloudy
+2:52 PM,73 °F,34 °F,23 °%,NE,8 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
+3:44 PM,73 °F,37 °F,27 °%,CALM,0 °mph,0 °mph,22.16 °in,0.0 °in,Mostly Cloudy
+4:43 PM,73 °F,43 °F,33 °%,ESE,8 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
+5:54 PM,70 °F,50 °F,49 °%,ESE,8 °mph,0 °mph,22.14 °in,0.0 °in,Mostly Cloudy
+6:49 PM,63 °F,48 °F,59 °%,E,25 °mph,0 °mph,22.18 °in,0.0 °in,Thunder / Windy
+7:21 PM,57 °F,52 °F,82 °%,ENE,8 °mph,0 °mph,22.21 °in,0.0 °in,Light Rain with Thunder
+7:51 PM,57 °F,52 °F,82 °%,SSE,6 °mph,0 °mph,22.21 °in,0.0 °in,Cloudy
+8:50 PM,57 °F,52 °F,82 °%,E,3 °mph,0 °mph,22.20 °in,0.0 °in,Mostly Cloudy
+9:52 PM,57 °F,52 °F,82 °%,SSE,8 °mph,0 °mph,22.23 °in,0.0 °in,Mostly Cloudy
+10:47 PM,55 °F,52 °F,88 °%,SSE,10 °mph,0 °mph,22.24 °in,0.0 °in,Mostly Cloudy
+11:41 PM,57 °F,52 °F,82 °%,SSE,10 °mph,0 °mph,22.25 °in,0.0 °in,Mostly Cloudy

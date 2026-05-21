@@ -1,0 +1,27 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:41 AM,77 °F,57 °F,50 °%,WSW,6 °mph,0 °mph,25.05 °in,0.0 °in,Partly Cloudy
+1,1:43 AM,75 °F,57 °F,53 °%,SSW,5 °mph,0 °mph,25.03 °in,0.0 °in,Fair
+2,2:42 AM,73 °F,57 °F,57 °%,NNW,5 °mph,0 °mph,25.03 °in,0.0 °in,Fair
+3,4:10 AM,70 °F,57 °F,64 °%,CALM,0 °mph,0 °mph,25.03 °in,0.0 °in,Fair
+4,4:41 AM,70 °F,57 °F,64 °%,CALM,0 °mph,0 °mph,25.03 °in,0.0 °in,Fair
+5,5:43 AM,68 °F,57 °F,68 °%,CALM,0 °mph,0 °mph,25.05 °in,0.0 °in,Fair
+6,6:42 AM,68 °F,55 °F,64 °%,CALM,0 °mph,0 °mph,25.06 °in,0.0 °in,Fair
+7,7:40 AM,73 °F,57 °F,57 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Fair
+8,8:40 AM,79 °F,57 °F,47 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Fair
+9,9:40 AM,82 °F,55 °F,39 °%,CALM,0 °mph,0 °mph,25.09 °in,0.0 °in,Fair
+10,10:40 AM,86 °F,54 °F,33 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Haze
+11,11:40 AM,90 °F,45 °F,21 °%,CALM,0 °mph,0 °mph,25.06 °in,0.0 °in,Haze
+12,11:45 AM,90 °F,43 °F,20 °%,ESE,6 °mph,0 °mph,25.06 °in,0.0 °in,Haze
+13,12:04 PM,91 °F,43 °F,18 °%,SE,3 °mph,0 °mph,25.05 °in,0.0 °in,Haze
+14,12:40 PM,91 °F,39 °F,16 °%,WSW,8 °mph,0 °mph,25.04 °in,0.0 °in,Fair
+15,1:40 PM,93 °F,39 °F,15 °%,ESE,12 °mph,0 °mph,25.01 °in,0.0 °in,Partly Cloudy
+16,2:45 PM,95 °F,36 °F,12 °%,WSW,3 °mph,18 °mph,24.99 °in,0.0 °in,Partly Cloudy
+17,3:44 PM,95 °F,34 °F,12 °%,E,6 °mph,0 °mph,24.96 °in,0.0 °in,Partly Cloudy
+18,4:46 PM,93 °F,36 °F,13 °%,SSE,7 °mph,0 °mph,24.95 °in,0.0 °in,Partly Cloudy
+19,5:50 PM,93 °F,36 °F,13 °%,SE,7 °mph,0 °mph,24.94 °in,0.0 °in,Partly Cloudy
+20,6:40 PM,93 °F,36 °F,13 °%,SE,10 °mph,0 °mph,24.94 °in,0.0 °in,Partly Cloudy
+21,7:47 PM,91 °F,32 °F,12 °%,CALM,0 °mph,0 °mph,24.94 °in,0.0 °in,Mostly Cloudy
+22,8:46 PM,84 °F,55 °F,37 °%,WSW,9 °mph,24 °mph,24.99 °in,0.0 °in,Mostly Cloudy
+23,9:44 PM,81 °F,57 °F,45 °%,W,15 °mph,0 °mph,25.01 °in,0.0 °in,Mostly Cloudy
+24,10:41 PM,77 °F,61 °F,57 °%,W,8 °mph,0 °mph,25.06 °in,0.0 °in,Partly Cloudy
+25,11:42 PM,75 °F,61 °F,61 °%,W,9 °mph,0 °mph,25.08 °in,0.0 °in,Partly Cloudy

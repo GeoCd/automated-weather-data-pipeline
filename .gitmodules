@@ -1,0 +1,3 @@
+[submodule "mx-weather-datasets"]
+	path = mx-weather-datasets
+	url = https://github.com/GeoCd/mx-weather-datasets.git

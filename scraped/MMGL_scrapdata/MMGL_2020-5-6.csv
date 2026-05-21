@@ -1,0 +1,26 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,11:51 PM,63 °F,57 °F,82 °%,NE,8 °mph,0 °mph,25.16 °in,0.0 °in,Mostly Cloudy
+1,12:48 AM,63 °F,57 °F,82 °%,CALM,0 °mph,0 °mph,25.13 °in,0.0 °in,Mostly Cloudy
+2,1:48 AM,63 °F,55 °F,77 °%,CALM,0 °mph,0 °mph,25.12 °in,0.0 °in,Partly Cloudy
+3,3:11 AM,63 °F,55 °F,77 °%,ENE,5 °mph,0 °mph,25.10 °in,0.0 °in,Partly Cloudy
+4,4:14 AM,63 °F,55 °F,77 °%,ESE,3 °mph,0 °mph,25.10 °in,0.0 °in,Partly Cloudy
+5,4:46 AM,61 °F,54 °F,77 °%,SSE,3 °mph,0 °mph,25.10 °in,0.0 °in,Partly Cloudy
+6,5:51 AM,63 °F,55 °F,77 °%,CALM,0 °mph,0 °mph,25.13 °in,0.0 °in,Mostly Cloudy
+7,6:50 AM,61 °F,54 °F,77 °%,CALM,0 °mph,0 °mph,25.13 °in,0.0 °in,Cloudy
+8,7:46 AM,63 °F,55 °F,77 °%,CALM,0 °mph,0 °mph,25.15 °in,0.0 °in,Cloudy
+9,8:49 AM,64 °F,55 °F,73 °%,ENE,5 °mph,0 °mph,25.17 °in,0.0 °in,Mostly Cloudy
+10,9:44 AM,68 °F,55 °F,64 °%,ENE,5 °mph,0 °mph,25.16 °in,0.0 °in,Mostly Cloudy
+11,10:45 AM,72 °F,55 °F,57 °%,NNE,10 °mph,0 °mph,25.15 °in,0.0 °in,Mostly Cloudy
+12,11:51 AM,75 °F,54 °F,47 °%,CALM,0 °mph,0 °mph,25.12 °in,0.0 °in,Partly Cloudy
+13,12:40 PM,79 °F,54 °F,42 °%,CALM,0 °mph,0 °mph,25.11 °in,0.0 °in,Partly Cloudy
+14,1:47 PM,82 °F,46 °F,28 °%,E,7 °mph,0 °mph,25.07 °in,0.0 °in,Partly Cloudy
+15,2:46 PM,84 °F,43 °F,23 °%,E,5 °mph,0 °mph,25.04 °in,0.0 °in,Partly Cloudy
+16,3:44 PM,86 °F,43 °F,22 °%,CALM,0 °mph,0 °mph,25.01 °in,0.0 °in,Partly Cloudy
+17,4:46 PM,86 °F,39 °F,19 °%,CALM,0 °mph,0 °mph,25.00 °in,0.0 °in,Mostly Cloudy
+18,5:50 PM,82 °F,39 °F,21 °%,E,7 °mph,0 °mph,24.99 °in,0.0 °in,Thunder
+19,6:36 PM,64 °F,54 °F,68 °%,SE,23 °mph,0 °mph,25.03 °in,0.0 °in,Light Rain with Thunder
+20,6:49 PM,66 °F,48 °F,52 °%,E,15 °mph,28 °mph,25.04 °in,0.0 °in,T-Storm
+21,7:44 PM,66 °F,54 °F,64 °%,ESE,7 °mph,0 °mph,25.05 °in,0.0 °in,Light Rain
+22,8:43 PM,70 °F,54 °F,56 °%,NNW,7 °mph,0 °mph,25.11 °in,0.0 °in,Light Rain
+23,9:42 PM,64 °F,57 °F,77 °%,SE,10 °mph,0 °mph,25.15 °in,0.0 °in,Cloudy
+24,10:49 PM,61 °F,54 °F,77 °%,WSW,3 °mph,0 °mph,25.17 °in,0.0 °in,Light Rain

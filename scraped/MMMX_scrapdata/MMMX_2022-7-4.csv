@@ -1,0 +1,27 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,11:56 PM,64 °F,52 °F,64 °%,WNW,9 °mph,0 °mph,23.14 °in,0.0 °in,Partly Cloudy
+1,12:44 AM,63 °F,52 °F,68 °%,WNW,9 °mph,0 °mph,23.14 °in,0.0 °in,Fair
+2,1:42 AM,64 °F,50 °F,59 °%,NNE,9 °mph,0 °mph,23.14 °in,0.0 °in,Fair
+3,2:43 AM,63 °F,52 °F,68 °%,NW,7 °mph,0 °mph,23.14 °in,0.0 °in,Partly Cloudy
+4,3:43 AM,61 °F,50 °F,68 °%,N,8 °mph,0 °mph,23.13 °in,0.0 °in,Fair
+5,4:53 AM,61 °F,48 °F,63 °%,NW,5 °mph,0 °mph,23.13 °in,0.0 °in,Partly Cloudy
+6,5:53 AM,61 °F,48 °F,63 °%,N,7 °mph,0 °mph,23.13 °in,0.0 °in,Partly Cloudy
+7,6:44 AM,61 °F,48 °F,63 °%,NW,6 °mph,0 °mph,23.15 °in,0.0 °in,Mostly Cloudy
+8,7:41 AM,63 °F,48 °F,59 °%,NE,3 °mph,0 °mph,23.17 °in,0.0 °in,Mostly Cloudy
+9,8:48 AM,64 °F,48 °F,56 °%,NE,5 °mph,0 °mph,23.18 °in,0.0 °in,Mostly Cloudy
+10,9:42 AM,66 °F,48 °F,52 °%,NNE,7 °mph,0 °mph,23.17 °in,0.0 °in,Mostly Cloudy
+11,10:42 AM,68 °F,48 °F,49 °%,E,6 °mph,0 °mph,23.17 °in,0.0 °in,Cloudy
+12,11:41 AM,70 °F,46 °F,43 °%,ENE,9 °mph,0 °mph,23.16 °in,0.0 °in,Cloudy
+13,12:48 PM,70 °F,46 °F,43 °%,ESE,8 °mph,0 °mph,23.14 °in,0.0 °in,Cloudy
+14,1:45 PM,72 °F,45 °F,38 °%,NNW,3 °mph,0 °mph,23.12 °in,0.0 °in,Cloudy
+15,2:51 PM,72 °F,46 °F,41 °%,E,9 °mph,0 °mph,23.11 °in,0.0 °in,Cloudy
+16,3:47 PM,70 °F,46 °F,43 °%,E,14 °mph,0 °mph,23.11 °in,0.0 °in,Light Rain
+17,3:50 PM,70 °F,46 °F,43 °%,E,14 °mph,0 °mph,23.11 °in,0.0 °in,Light Rain
+18,4:40 PM,70 °F,52 °F,53 °%,E,7 °mph,0 °mph,23.11 °in,0.0 °in,Light Rain
+19,5:44 PM,68 °F,52 °F,56 °%,ENE,9 °mph,0 °mph,23.11 °in,0.0 °in,Cloudy
+20,5:54 PM,66 °F,52 °F,60 °%,E,9 °mph,0 °mph,23.11 °in,0.0 °in,Cloudy
+21,6:46 PM,68 °F,50 °F,52 °%,NE,8 °mph,0 °mph,23.11 °in,0.0 °in,Cloudy
+22,7:40 PM,68 °F,50 °F,52 °%,E,5 °mph,0 °mph,23.11 °in,0.0 °in,Cloudy
+23,8:45 PM,68 °F,50 °F,52 °%,E,5 °mph,0 °mph,23.13 °in,0.0 °in,Cloudy
+24,9:45 PM,68 °F,48 °F,49 °%,CALM,0 °mph,0 °mph,23.14 °in,0.0 °in,Mostly Cloudy
+25,10:45 PM,68 °F,48 °F,49 °%,SW,6 °mph,0 °mph,23.15 °in,0.0 °in,Mostly Cloudy

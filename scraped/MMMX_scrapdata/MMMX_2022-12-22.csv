@@ -1,0 +1,28 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:45 AM,59 °F,43 °F,55 °%,CALM,0 °mph,0 °mph,23.12 °in,0.0 °in,Partly Cloudy
+1,1:45 AM,57 °F,43 °F,59 °%,SSW,5 °mph,0 °mph,23.11 °in,0.0 °in,Mostly Cloudy
+2,2:45 AM,57 °F,43 °F,59 °%,WSW,3 °mph,0 °mph,23.11 °in,0.0 °in,Partly Cloudy
+3,3:45 AM,55 °F,41 °F,58 °%,CALM,0 °mph,0 °mph,23.10 °in,0.0 °in,Partly Cloudy
+4,4:45 AM,54 °F,43 °F,67 °%,CALM,0 °mph,0 °mph,23.11 °in,0.0 °in,Partly Cloudy
+5,5:49 AM,52 °F,41 °F,67 °%,ENE,3 °mph,0 °mph,23.11 °in,0.0 °in,Partly Cloudy
+6,6:46 AM,48 °F,39 °F,71 °%,E,6 °mph,0 °mph,23.13 °in,0.0 °in,Fair
+7,7:45 AM,52 °F,39 °F,62 °%,ENE,3 °mph,0 °mph,23.14 °in,0.0 °in,Fair
+8,8:45 AM,55 °F,41 °F,58 °%,NNE,5 °mph,0 °mph,23.16 °in,0.0 °in,Fair
+9,9:48 AM,59 °F,43 °F,55 °%,NE,5 °mph,0 °mph,23.17 °in,0.0 °in,Fair
+10,10:12 AM,63 °F,41 °F,45 °%,E,5 °mph,0 °mph,23.16 °in,0.0 °in,Fair
+11,10:45 AM,64 °F,41 °F,42 °%,ENE,3 °mph,0 °mph,23.15 °in,0.0 °in,Fair
+12,11:45 AM,66 °F,41 °F,40 °%,ESE,7 °mph,0 °mph,23.12 °in,0.0 °in,Fair
+13,12:19 PM,70 °F,39 °F,33 °%,S,3 °mph,0 °mph,23.11 °in,0.0 °in,Fair
+14,12:45 PM,72 °F,39 °F,31 °%,NE,7 °mph,0 °mph,23.10 °in,0.0 °in,Fair
+15,1:47 PM,73 °F,37 °F,27 °%,NNE,8 °mph,0 °mph,23.06 °in,0.0 °in,Fair
+16,2:48 PM,73 °F,30 °F,20 °%,NNW,7 °mph,0 °mph,23.04 °in,0.0 °in,Fair
+17,3:40 PM,73 °F,27 °F,18 °%,NE,6 °mph,0 °mph,23.04 °in,0.0 °in,Fair
+18,4:48 PM,73 °F,28 °F,19 °%,SW,7 °mph,0 °mph,23.04 °in,0.0 °in,Fair
+19,5:49 PM,72 °F,32 °F,23 °%,NNE,2 °mph,0 °mph,23.05 °in,0.0 °in,Fair
+20,6:46 PM,70 °F,45 °F,40 °%,ESE,14 °mph,0 °mph,23.07 °in,0.0 °in,Fair
+21,7:09 PM,66 °F,45 °F,46 °%,ESE,8 °mph,0 °mph,23.07 °in,0.0 °in,Fair
+22,7:46 PM,64 °F,45 °F,49 °%,E,5 °mph,0 °mph,23.10 °in,0.0 °in,Fair
+23,8:50 PM,63 °F,45 °F,52 °%,NNE,7 °mph,0 °mph,23.12 °in,0.0 °in,Fair
+24,9:45 PM,63 °F,43 °F,48 °%,N,6 °mph,0 °mph,23.14 °in,0.0 °in,Fair
+25,10:45 PM,61 °F,43 °F,52 °%,NW,6 °mph,0 °mph,23.14 °in,0.0 °in,Fair
+26,11:50 PM,59 °F,43 °F,55 °%,W,5 °mph,0 °mph,23.15 °in,0.0 °in,Fair

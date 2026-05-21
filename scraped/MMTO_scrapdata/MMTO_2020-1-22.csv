@@ -1,0 +1,28 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+12:52 AM,41 °F,36 °F,81 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Partly Cloudy
+1:48 AM,37 °F,32 °F,81 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Partly Cloudy
+2:56 AM,37 °F,36 °F,93 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Partly Cloudy
+3:47 AM,36 °F,34 °F,93 °%,CALM,0 °mph,0 °mph,22.16 °in,0.0 °in,Fair
+4:47 AM,36 °F,32 °F,87 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Fair
+5:46 AM,36 °F,34 °F,93 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Partly Cloudy
+6:51 AM,32 °F,28 °F,87 °%,CALM,0 °mph,0 °mph,22.16 °in,0.0 °in,Fog
+7:49 AM,30 °F,28 °F,93 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Fog
+8:06 AM,32 °F,30 °F,93 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Fair
+8:47 AM,37 °F,36 °F,93 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+9:10 AM,45 °F,37 °F,76 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+9:49 AM,52 °F,39 °F,62 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+10:17 AM,55 °F,39 °F,54 °%,NE,3 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+10:47 AM,59 °F,39 °F,48 °%,WNW,6 °mph,0 °mph,22.18 °in,0.0 °in,Fair
+11:47 AM,63 °F,36 °F,37 °%,WNW,7 °mph,0 °mph,22.16 °in,0.0 °in,Fair
+12:48 PM,63 °F,34 °F,34 °%,NW,8 °mph,0 °mph,22.13 °in,0.0 °in,Fair
+1:47 PM,66 °F,36 °F,32 °%,NW,9 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
+2:46 PM,66 °F,37 °F,35 °%,NW,15 °mph,0 °mph,22.09 °in,0.0 °in,Mostly Cloudy
+3:49 PM,61 °F,37 °F,42 °%,WNW,16 °mph,0 °mph,22.09 °in,0.0 °in,Mostly Cloudy
+4:46 PM,63 °F,34 °F,34 °%,WNW,14 °mph,0 °mph,22.08 °in,0.0 °in,Mostly Cloudy
+5:49 PM,59 °F,34 °F,39 °%,W,17 °mph,0 °mph,22.09 °in,0.0 °in,Mostly Cloudy
+6:46 PM,57 °F,34 °F,41 °%,W,12 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
+7:46 PM,52 °F,36 °F,54 °%,WNW,5 °mph,0 °mph,22.12 °in,0.0 °in,Partly Cloudy
+8:48 PM,48 °F,37 °F,66 °%,NNE,7 °mph,0 °mph,22.14 °in,0.0 °in,Fair
+9:46 PM,46 °F,39 °F,76 °%,NE,7 °mph,0 °mph,22.15 °in,0.0 °in,Fair
+10:46 PM,45 °F,37 °F,76 °%,ENE,3 °mph,0 °mph,22.13 °in,0.0 °in,Fair
+11:46 PM,43 °F,36 °F,76 °%,ENE,3 °mph,0 °mph,22.13 °in,0.0 °in,Fair

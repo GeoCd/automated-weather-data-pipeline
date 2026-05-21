@@ -1,0 +1,26 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,11:41 PM,64 °F,59 °F,83 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Partly Cloudy
+1,12:44 AM,64 °F,61 °F,88 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Mostly Cloudy
+2,1:40 AM,63 °F,57 °F,82 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Partly Cloudy
+3,2:52 AM,63 °F,59 °F,88 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Partly Cloudy
+4,4:17 AM,63 °F,59 °F,88 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Partly Cloudy
+5,4:41 AM,61 °F,57 °F,88 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Partly Cloudy
+6,5:45 AM,61 °F,57 °F,88 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Partly Cloudy
+7,6:52 AM,61 °F,52 °F,72 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Cloudy
+8,7:47 AM,64 °F,54 °F,68 °%,WNW,5 °mph,0 °mph,25.09 °in,0.0 °in,Cloudy
+9,8:45 AM,66 °F,55 °F,68 °%,WSW,5 °mph,0 °mph,25.10 °in,0.0 °in,Mostly Cloudy
+10,9:53 AM,70 °F,55 °F,60 °%,CALM,0 °mph,0 °mph,25.11 °in,0.0 °in,Mostly Cloudy
+11,10:53 AM,75 °F,55 °F,50 °%,NNW,3 °mph,0 °mph,25.11 °in,0.0 °in,Partly Cloudy
+12,11:51 AM,79 °F,54 °F,42 °%,CALM,0 °mph,0 °mph,25.10 °in,0.0 °in,Partly Cloudy
+13,12:41 PM,79 °F,54 °F,42 °%,CALM,0 °mph,0 °mph,25.09 °in,0.0 °in,Partly Cloudy
+14,1:43 PM,81 °F,55 °F,42 °%,CALM,0 °mph,0 °mph,25.06 °in,0.0 °in,Partly Cloudy
+15,2:45 PM,82 °F,50 °F,32 °%,S,7 °mph,0 °mph,25.03 °in,0.0 °in,Partly Cloudy
+16,3:45 PM,81 °F,50 °F,34 °%,S,6 °mph,0 °mph,25.01 °in,0.0 °in,Partly Cloudy
+17,4:45 PM,81 °F,50 °F,34 °%,W,10 °mph,0 °mph,25.00 °in,0.0 °in,Partly Cloudy
+18,5:50 PM,75 °F,52 °F,44 °%,W,8 °mph,0 °mph,25.01 °in,0.0 °in,Mostly Cloudy
+19,6:49 PM,75 °F,48 °F,38 °%,W,6 °mph,17 °mph,25.02 °in,0.0 °in,Cloudy
+20,7:40 PM,75 °F,48 °F,38 °%,ESE,12 °mph,0 °mph,25.04 °in,0.0 °in,Cloudy
+21,7:57 PM,66 °F,55 °F,68 °%,W,3 °mph,18 °mph,25.06 °in,0.0 °in,T-Storm
+22,8:52 PM,68 °F,63 °F,83 °%,WSW,12 °mph,0 °mph,25.05 °in,0.0 °in,Light Rain
+23,9:49 PM,66 °F,61 °F,83 °%,W,5 °mph,0 °mph,25.05 °in,0.0 °in,Cloudy
+24,10:43 PM,66 °F,63 °F,88 °%,CALM,0 °mph,0 °mph,25.06 °in,0.0 °in,Cloudy

@@ -1,0 +1,28 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,11:24 PM,77 °F,48 °F,36 °%,E,8 °mph,0 °mph,25.07 °in,0.0 °in,Partly Cloudy
+1,11:44 PM,75 °F,48 °F,38 °%,E,9 °mph,0 °mph,25.07 °in,0.0 °in,Partly Cloudy
+2,12:41 AM,72 °F,50 °F,46 °%,E,8 °mph,0 °mph,25.08 °in,0.0 °in,Partly Cloudy
+3,1:54 AM,70 °F,50 °F,49 °%,E,5 °mph,0 °mph,25.08 °in,0.0 °in,Partly Cloudy
+4,2:55 AM,68 °F,50 °F,52 °%,NNE,6 °mph,0 °mph,25.07 °in,0.0 °in,Mostly Cloudy
+5,4:25 AM,66 °F,52 °F,60 °%,CALM,0 °mph,0 °mph,25.06 °in,0.0 °in,Mostly Cloudy
+6,5:00 AM,66 °F,52 °F,60 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Mostly Cloudy
+7,5:48 AM,66 °F,52 °F,60 °%,NNE,5 °mph,0 °mph,25.08 °in,0.0 °in,Mostly Cloudy
+8,6:48 AM,66 °F,52 °F,60 °%,ENE,7 °mph,0 °mph,25.08 °in,0.0 °in,Mostly Cloudy
+9,7:41 AM,68 °F,52 °F,56 °%,ENE,6 °mph,0 °mph,25.10 °in,0.0 °in,Mostly Cloudy
+10,8:43 AM,70 °F,54 °F,56 °%,NE,9 °mph,0 °mph,25.10 °in,0.0 °in,Mostly Cloudy
+11,9:42 AM,75 °F,54 °F,47 °%,E,10 °mph,0 °mph,25.09 °in,0.0 °in,Mostly Cloudy
+12,10:46 AM,77 °F,50 °F,39 °%,NE,16 °mph,0 °mph,25.08 °in,0.0 °in,Mostly Cloudy
+13,11:48 AM,79 °F,46 °F,32 °%,E,21 °mph,0 °mph,25.07 °in,0.0 °in,Mostly Cloudy / Windy
+14,12:42 PM,81 °F,48 °F,32 °%,NE,16 °mph,0 °mph,25.05 °in,0.0 °in,Mostly Cloudy
+15,1:40 PM,82 °F,48 °F,30 °%,ENE,14 °mph,0 °mph,25.01 °in,0.0 °in,Mostly Cloudy
+16,2:40 PM,82 °F,46 °F,28 °%,NE,9 °mph,0 °mph,24.99 °in,0.0 °in,Mostly Cloudy
+17,3:44 PM,82 °F,46 °F,28 °%,NE,12 °mph,0 °mph,24.98 °in,0.0 °in,Mostly Cloudy
+18,4:45 PM,82 °F,46 °F,28 °%,ENE,10 °mph,0 °mph,24.98 °in,0.0 °in,Cloudy
+19,5:46 PM,82 °F,46 °F,28 °%,ENE,10 °mph,0 °mph,24.98 °in,0.0 °in,Cloudy
+20,6:43 PM,82 °F,46 °F,28 °%,ENE,10 °mph,0 °mph,24.98 °in,0.0 °in,Rain
+21,7:19 PM,68 °F,61 °F,78 °%,SSE,7 °mph,23 °mph,24.99 °in,0.0 °in,Cloudy
+22,7:43 PM,68 °F,61 °F,78 °%,SE,6 °mph,0 °mph,25.01 °in,0.0 °in,Cloudy
+23,8:50 PM,68 °F,59 °F,73 °%,ESE,9 °mph,0 °mph,25.03 °in,0.0 °in,Cloudy
+24,9:52 PM,68 °F,57 °F,68 °%,SE,9 °mph,0 °mph,25.05 °in,0.0 °in,Cloudy
+25,10:27 PM,68 °F,57 °F,68 °%,ESE,7 °mph,0 °mph,25.07 °in,0.0 °in,Light Rain
+26,10:49 PM,66 °F,57 °F,73 °%,SSE,8 °mph,0 °mph,25.08 °in,0.0 °in,Light Rain

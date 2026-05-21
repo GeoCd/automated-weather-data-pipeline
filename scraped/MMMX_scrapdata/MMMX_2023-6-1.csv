@@ -1,0 +1,27 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:45 AM,68 °F,52 °F,56 °%,SE,8 °mph,0 °mph,23.07 °in,0.0 °in,Fair
+1,1:43 AM,68 °F,52 °F,56 °%,SSE,7 °mph,0 °mph,23.05 °in,0.0 °in,Fair
+2,2:45 AM,66 °F,52 °F,60 °%,SSE,6 °mph,0 °mph,23.04 °in,0.0 °in,Fair
+3,3:46 AM,64 °F,55 °F,73 °%,ESE,5 °mph,0 °mph,23.04 °in,0.0 °in,Fair
+4,4:45 AM,64 °F,55 °F,73 °%,ESE,9 °mph,0 °mph,23.04 °in,0.0 °in,Fair
+5,5:45 AM,63 °F,55 °F,77 °%,ESE,7 °mph,0 °mph,23.05 °in,0.0 °in,Fair
+6,6:45 AM,64 °F,55 °F,73 °%,E,7 °mph,0 °mph,23.07 °in,0.0 °in,Fair
+7,7:40 AM,68 °F,54 °F,60 °%,ESE,9 °mph,0 °mph,23.08 °in,0.0 °in,Fair
+8,8:49 AM,72 °F,52 °F,50 °%,CALM,0 °mph,0 °mph,23.09 °in,0.0 °in,Fair
+9,9:49 AM,75 °F,52 °F,44 °%,SSE,8 °mph,0 °mph,23.10 °in,0.0 °in,Fair
+10,10:45 AM,77 °F,48 °F,36 °%,CALM,0 °mph,0 °mph,23.09 °in,0.0 °in,Fair
+11,11:51 AM,79 °F,46 °F,32 °%,ENE,6 °mph,0 °mph,23.07 °in,0.0 °in,Fair
+12,12:45 PM,81 °F,43 °F,26 °%,W,5 °mph,0 °mph,23.06 °in,0.0 °in,Partly Cloudy
+13,1:12 PM,82 °F,43 °F,25 °%,NNE,12 °mph,0 °mph,23.05 °in,0.0 °in,Partly Cloudy
+14,1:45 PM,82 °F,45 °F,26 °%,NNE,9 °mph,0 °mph,23.04 °in,0.0 °in,Mostly Cloudy
+15,2:51 PM,82 °F,45 °F,26 °%,SSE,9 °mph,0 °mph,23.02 °in,0.0 °in,Mostly Cloudy
+16,3:40 PM,82 °F,41 °F,23 °%,N,5 °mph,0 °mph,23.01 °in,0.0 °in,Mostly Cloudy
+17,4:46 PM,82 °F,48 °F,30 °%,SE,13 °mph,24 °mph,23.01 °in,0.0 °in,Partly Cloudy
+18,5:23 PM,79 °F,52 °F,39 °%,S,12 °mph,23 °mph,23.01 °in,0.0 °in,Partly Cloudy
+19,5:49 PM,77 °F,52 °F,41 °%,S,8 °mph,0 °mph,23.01 °in,0.0 °in,Partly Cloudy
+20,6:50 PM,77 °F,52 °F,41 °%,SSE,10 °mph,0 °mph,23.04 °in,0.0 °in,Partly Cloudy
+21,7:47 PM,75 °F,54 °F,47 °%,SSE,12 °mph,0 °mph,23.05 °in,0.0 °in,Partly Cloudy
+22,8:45 PM,73 °F,52 °F,47 °%,SSE,14 °mph,0 °mph,23.07 °in,0.0 °in,Partly Cloudy
+23,9:45 PM,72 °F,54 °F,53 °%,SSE,12 °mph,0 °mph,23.10 °in,0.0 °in,Mostly Cloudy
+24,10:45 PM,72 °F,54 °F,53 °%,SSE,7 °mph,0 °mph,23.11 °in,0.0 °in,Fair
+25,11:47 PM,70 °F,54 °F,56 °%,ESE,5 °mph,0 °mph,23.10 °in,0.0 °in,Fair

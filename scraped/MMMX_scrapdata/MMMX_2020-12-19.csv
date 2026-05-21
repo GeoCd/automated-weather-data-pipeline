@@ -1,0 +1,27 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:43 AM,59 °F,41 °F,51 °%,E,3 °mph,0 °mph,23.17 °in,0.0 °in,Fair
+1,1:42 AM,57 °F,43 °F,59 °%,SSW,2 °mph,0 °mph,23.16 °in,0.0 °in,Fair
+2,2:45 AM,54 °F,43 °F,67 °%,ENE,5 °mph,0 °mph,23.15 °in,0.0 °in,Mostly Cloudy
+3,3:43 AM,54 °F,41 °F,62 °%,ENE,3 °mph,0 °mph,23.15 °in,0.0 °in,Mostly Cloudy
+4,4:45 AM,52 °F,41 °F,67 °%,ENE,6 °mph,0 °mph,23.15 °in,0.0 °in,Fair
+5,5:45 AM,52 °F,41 °F,67 °%,ENE,3 °mph,0 °mph,23.16 °in,0.0 °in,Fair
+6,6:46 AM,50 °F,41 °F,71 °%,E,6 °mph,0 °mph,23.16 °in,0.0 °in,Partly Cloudy
+7,7:48 AM,52 °F,41 °F,67 °%,NE,5 °mph,0 °mph,23.18 °in,0.0 °in,Mostly Cloudy
+8,8:43 AM,55 °F,41 °F,58 °%,ENE,5 °mph,0 °mph,23.19 °in,0.0 °in,Partly Cloudy
+9,9:44 AM,61 °F,43 °F,52 °%,ESE,5 °mph,0 °mph,23.20 °in,0.0 °in,Fair
+10,10:37 AM,64 °F,43 °F,45 °%,SW,7 °mph,0 °mph,23.19 °in,0.0 °in,Fair
+11,10:46 AM,66 °F,43 °F,43 °%,SW,7 °mph,0 °mph,23.19 °in,0.0 °in,Fair
+12,11:41 AM,68 °F,41 °F,37 °%,N,5 °mph,0 °mph,23.17 °in,0.0 °in,Fair
+13,12:41 PM,70 °F,41 °F,35 °%,NNE,7 °mph,0 °mph,23.14 °in,0.0 °in,Fair
+14,1:47 PM,72 °F,39 °F,31 °%,ENE,7 °mph,0 °mph,23.10 °in,0.0 °in,Fair
+15,2:50 PM,73 °F,37 °F,27 °%,WNW,5 °mph,0 °mph,23.07 °in,0.0 °in,Fair
+16,3:50 PM,75 °F,37 °F,25 °%,ENE,9 °mph,0 °mph,23.07 °in,0.0 °in,Partly Cloudy
+17,4:53 PM,73 °F,37 °F,27 °%,NW,6 °mph,0 °mph,23.07 °in,0.0 °in,Mostly Cloudy
+18,5:44 PM,72 °F,36 °F,27 °%,NNW,7 °mph,0 °mph,23.07 °in,0.0 °in,Mostly Cloudy
+19,6:43 PM,70 °F,36 °F,28 °%,N,9 °mph,0 °mph,23.08 °in,0.0 °in,Partly Cloudy
+20,7:53 PM,68 °F,43 °F,40 °%,NNE,9 °mph,0 °mph,23.11 °in,0.0 °in,Mostly Cloudy
+21,8:44 PM,66 °F,43 °F,43 °%,NNE,9 °mph,0 °mph,23.13 °in,0.0 °in,Partly Cloudy
+22,9:15 PM,63 °F,43 °F,48 °%,N,9 °mph,0 °mph,23.13 °in,0.0 °in,Fair
+23,9:45 PM,63 °F,43 °F,48 °%,NNW,9 °mph,0 °mph,23.14 °in,0.0 °in,Partly Cloudy
+24,10:45 PM,61 °F,39 °F,45 °%,N,8 °mph,0 °mph,23.14 °in,0.0 °in,Partly Cloudy
+25,11:45 PM,59 °F,39 °F,48 °%,W,10 °mph,0 °mph,23.15 °in,0.0 °in,Partly Cloudy

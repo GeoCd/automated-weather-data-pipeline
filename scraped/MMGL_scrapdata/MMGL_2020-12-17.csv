@@ -1,0 +1,27 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:21 AM,54 °F,37 °F,54 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Fair
+1,12:58 AM,52 °F,39 °F,62 °%,S,3 °mph,0 °mph,25.07 °in,0.0 °in,Fair
+2,1:48 AM,48 °F,39 °F,71 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Fair
+3,2:48 AM,46 °F,39 °F,76 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Fair
+4,3:48 AM,45 °F,37 °F,76 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Fair
+5,4:45 AM,43 °F,37 °F,81 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Fair
+6,5:50 AM,43 °F,37 °F,81 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Fair
+7,6:43 AM,41 °F,36 °F,81 °%,CALM,0 °mph,0 °mph,25.10 °in,0.0 °in,Fair
+8,7:47 AM,45 °F,39 °F,81 °%,CALM,0 °mph,0 °mph,25.12 °in,0.0 °in,Fair
+9,8:20 AM,48 °F,41 °F,76 °%,CALM,0 °mph,0 °mph,25.13 °in,0.0 °in,Fair
+10,8:47 AM,54 °F,41 °F,62 °%,CALM,0 °mph,0 °mph,25.15 °in,0.0 °in,Fair
+11,9:45 AM,63 °F,43 °F,48 °%,CALM,0 °mph,0 °mph,25.16 °in,0.0 °in,Fair
+12,10:43 AM,66 °F,43 °F,43 °%,SE,5 °mph,0 °mph,25.16 °in,0.0 °in,Fair
+13,11:50 AM,70 °F,48 °F,46 °%,CALM,0 °mph,0 °mph,25.13 °in,0.0 °in,Fair
+14,12:43 PM,73 °F,46 °F,38 °%,CALM,0 °mph,0 °mph,25.11 °in,0.0 °in,Fair
+15,1:43 PM,75 °F,45 °F,34 °%,CALM,0 °mph,0 °mph,25.08 °in,0.0 °in,Partly Cloudy
+16,2:45 PM,77 °F,39 °F,26 °%,WNW,7 °mph,0 °mph,25.06 °in,0.0 °in,Partly Cloudy
+17,3:46 PM,75 °F,37 °F,25 °%,W,5 °mph,0 °mph,25.05 °in,0.0 °in,Partly Cloudy
+18,4:46 PM,75 °F,39 °F,27 °%,W,5 °mph,0 °mph,25.05 °in,0.0 °in,Partly Cloudy
+19,5:48 PM,75 °F,39 °F,27 °%,S,8 °mph,0 °mph,25.06 °in,0.0 °in,Mostly Cloudy
+20,6:44 PM,72 °F,43 °F,35 °%,CALM,0 °mph,0 °mph,25.07 °in,0.0 °in,Mostly Cloudy
+21,7:46 PM,68 °F,41 °F,37 °%,SSW,5 °mph,0 °mph,25.09 °in,0.0 °in,Partly Cloudy
+22,8:42 PM,64 °F,43 °F,45 °%,CALM,0 °mph,0 °mph,25.11 °in,0.0 °in,Partly Cloudy
+23,9:40 PM,61 °F,46 °F,59 °%,N,7 °mph,0 °mph,25.13 °in,0.0 °in,Partly Cloudy
+24,10:50 PM,59 °F,41 °F,51 °%,NW,3 °mph,0 °mph,25.15 °in,0.0 °in,Partly Cloudy
+25,11:56 PM,52 °F,41 °F,67 °%,S,3 °mph,0 °mph,25.14 °in,0.0 °in,Partly Cloudy
