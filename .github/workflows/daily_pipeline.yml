@@ -1,0 +1,42 @@
+name: Daily Weather Data Pipeline
+
+on:
+  schedule:
+    - cron: '1 6 * * *'  # 00:01 CDMX = 06:01 UTC
+  workflow_dispatch:     # for testing
+
+permissions:
+  contents: write        # push updated CSVs to repo
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install Chrome and Chromedriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        run: python main_pipeline.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mx-weather-datasets/
+          git add scraped/
+          git diff --cached --quiet || git commit -m "chore: daily data update $(date +'%Y-%m-%d')"
+          git push
