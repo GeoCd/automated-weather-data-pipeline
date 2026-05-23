@@ -135,12 +135,7 @@ def extract_with_retry(url, date_str, station_id, max_retries=config.MAX_RETRIES
             result = showcase_get_table(
                 driver_start(), url, config.CSS_ELEMENT, config.OUT_FORMAT, date_str, station_id
             )
-            if result is None:
-                logger.warning(f"[{station_id}] {date_str} attempt {attempt}: returned None")
-                if attempt == max_retries:
-                    return 'none'
-            else:
-                return 'ok'
+            return 'ok'
         except TimeoutException:
             logger.warning(f"[{station_id}] {date_str} attempt {attempt}: TIMEOUT")
             if attempt == max_retries:

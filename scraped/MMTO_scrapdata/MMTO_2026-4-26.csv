@@ -1,0 +1,27 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:43 AM,55 °F,48 °F,77 °%,CALM,0 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
+1,1:47 AM,52 °F,46 °F,82 °%,SE,6 °mph,0 °mph,22.13 °in,0.0 °in,Fair
+2,2:50 AM,52 °F,48 °F,88 °%,CALM,0 °mph,0 °mph,22.11 °in,0.0 °in,Fair
+3,3:49 AM,50 °F,46 °F,87 °%,N,3 °mph,0 °mph,22.12 °in,0.0 °in,Fair
+4,5:05 AM,50 °F,46 °F,87 °%,CALM,0 °mph,0 °mph,22.12 °in,0.0 °in,Fair
+5,5:42 AM,50 °F,46 °F,87 °%,CALM,0 °mph,0 °mph,22.12 °in,0.0 °in,Fair
+6,6:48 AM,50 °F,45 °F,82 °%,SSE,3 °mph,0 °mph,22.14 °in,0.0 °in,Fair
+7,7:48 AM,57 °F,50 °F,77 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Haze
+8,8:48 AM,63 °F,52 °F,68 °%,CALM,0 °mph,0 °mph,22.16 °in,0.0 °in,Haze
+9,9:46 AM,66 °F,52 °F,60 °%,W,5 °mph,0 °mph,22.16 °in,0.0 °in,Fair
+10,10:46 AM,70 °F,46 °F,43 °%,NW,6 °mph,0 °mph,22.15 °in,0.0 °in,Fair
+11,11:49 AM,73 °F,45 °F,36 °%,NW,2 °mph,0 °mph,22.13 °in,0.0 °in,Fair
+12,12:45 PM,75 °F,45 °F,34 °%,NW,6 °mph,0 °mph,22.12 °in,0.0 °in,Partly Cloudy
+13,1:42 PM,77 °F,46 °F,34 °%,NNE,15 °mph,0 °mph,22.10 °in,0.0 °in,Mostly Cloudy
+14,2:40 PM,73 °F,43 °F,33 °%,ESE,20 °mph,0 °mph,22.08 °in,0.0 °in,Mostly Cloudy
+15,3:10 PM,64 °F,50 °F,59 °%,SSE,18 °mph,0 °mph,22.09 °in,0.0 °in,Thunder
+16,3:29 PM,68 °F,50 °F,52 °%,SSE,12 °mph,0 °mph,22.09 °in,0.0 °in,Mostly Cloudy
+17,3:41 PM,68 °F,52 °F,56 °%,S,13 °mph,0 °mph,22.09 °in,0.0 °in,Mostly Cloudy
+18,4:42 PM,64 °F,46 °F,52 °%,NW,5 °mph,0 °mph,22.10 °in,0.0 °in,Mostly Cloudy
+19,5:42 PM,66 °F,46 °F,49 °%,NW,12 °mph,0 °mph,22.12 °in,0.0 °in,Mostly Cloudy
+20,6:40 PM,64 °F,41 °F,42 °%,W,12 °mph,0 °mph,22.14 °in,0.0 °in,Mostly Cloudy
+21,7:41 PM,66 °F,37 °F,35 °%,NW,10 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
+22,8:40 PM,63 °F,39 °F,42 °%,S,3 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
+23,9:45 PM,57 °F,43 °F,59 °%,ESE,7 °mph,0 °mph,22.15 °in,0.0 °in,Fair
+24,10:45 PM,57 °F,45 °F,63 °%,SSE,8 °mph,0 °mph,22.17 °in,0.0 °in,Fair
+25,11:51 PM,55 °F,45 °F,67 °%,SSE,10 °mph,0 °mph,22.19 °in,0.0 °in,Fair
