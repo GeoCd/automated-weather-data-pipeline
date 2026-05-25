@@ -1,27 +1,27 @@
-Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
-12:40 AM,52 °F,30 °F,44 °%,CALM,0 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
-1:43 AM,48 °F,30 °F,50 °%,NNE,3 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
-2:43 AM,50 °F,30 °F,47 °%,CALM,0 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
-3:40 AM,45 °F,30 °F,57 °%,CALM,0 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
-4:40 AM,43 °F,36 °F,76 °%,CALM,0 °mph,0 °mph,22.12 °in,0.0 °in,Mostly Cloudy
-5:46 AM,43 °F,30 °F,61 °%,CALM,0 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
-6:45 AM,43 °F,28 °F,57 °%,ENE,3 °mph,0 °mph,22.15 °in,0.0 °in,Fair
-7:44 AM,46 °F,32 °F,57 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Fair
-7:59 AM,50 °F,32 °F,50 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Fair
-8:49 AM,59 °F,30 °F,34 °%,E,5 °mph,0 °mph,22.19 °in,0.0 °in,Fair
-9:26 AM,63 °F,30 °F,30 °%,ENE,5 °mph,0 °mph,22.19 °in,0.0 °in,Fair
-9:50 AM,68 °F,27 °F,21 °%,E,6 °mph,0 °mph,22.19 °in,0.0 °in,Fair
-10:51 AM,72 °F,21 °F,15 °%,NNW,6 °mph,0 °mph,22.18 °in,0.0 °in,Fair
-11:51 AM,73 °F,23 °F,15 °%,S,3 °mph,0 °mph,22.16 °in,0.0 °in,Fair
-12:43 PM,75 °F,23 °F,14 °%,W,9 °mph,0 °mph,22.14 °in,0.0 °in,Partly Cloudy
-1:49 PM,79 °F,23 °F,13 °%,NW,16 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
-2:44 PM,79 °F,14 °F,9 °%,WNW,13 °mph,0 °mph,22.10 °in,0.0 °in,Fair
-3:42 PM,79 °F,16 °F,9 °%,WNW,14 °mph,0 °mph,22.08 °in,0.0 °in,Partly Cloudy
-4:43 PM,77 °F,12 °F,9 °%,WNW,15 °mph,0 °mph,22.09 °in,0.0 °in,Fair
-5:40 PM,77 °F,18 °F,11 °%,WNW,10 °mph,0 °mph,22.09 °in,0.0 °in,Partly Cloudy
-6:44 PM,72 °F,19 °F,14 °%,WNW,8 °mph,0 °mph,22.12 °in,0.0 °in,Partly Cloudy
-7:43 PM,68 °F,21 °F,17 °%,NNW,6 °mph,0 °mph,22.14 °in,0.0 °in,Partly Cloudy
-8:49 PM,66 °F,27 °F,23 °%,NNE,6 °mph,0 °mph,22.16 °in,0.0 °in,Mostly Cloudy
-9:46 PM,64 °F,28 °F,26 °%,ENE,9 °mph,0 °mph,22.18 °in,0.0 °in,Mostly Cloudy
-10:45 PM,61 °F,28 °F,29 °%,WSW,5 °mph,0 °mph,22.19 °in,0.0 °in,Partly Cloudy
-11:43 PM,61 °F,32 °F,34 °%,SW,3 °mph,0 °mph,22.19 °in,0.0 °in,Partly Cloudy
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:40 AM,52 °F,30 °F,44 °%,CALM,0 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
+1,1:43 AM,48 °F,30 °F,50 °%,NNE,3 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
+2,2:43 AM,50 °F,30 °F,47 °%,CALM,0 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
+3,3:40 AM,45 °F,30 °F,57 °%,CALM,0 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
+4,4:40 AM,43 °F,36 °F,76 °%,CALM,0 °mph,0 °mph,22.12 °in,0.0 °in,Mostly Cloudy
+5,5:46 AM,43 °F,30 °F,61 °%,CALM,0 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
+6,6:45 AM,43 °F,28 °F,57 °%,ENE,3 °mph,0 °mph,22.15 °in,0.0 °in,Fair
+7,7:44 AM,46 °F,32 °F,57 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Fair
+8,7:59 AM,50 °F,32 °F,50 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Fair
+9,8:49 AM,59 °F,30 °F,34 °%,E,5 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+10,9:26 AM,63 °F,30 °F,30 °%,ENE,5 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+11,9:50 AM,68 °F,27 °F,21 °%,E,6 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+12,10:51 AM,72 °F,21 °F,15 °%,NNW,6 °mph,0 °mph,22.18 °in,0.0 °in,Fair
+13,11:51 AM,73 °F,23 °F,15 °%,S,3 °mph,0 °mph,22.16 °in,0.0 °in,Fair
+14,12:43 PM,75 °F,23 °F,14 °%,W,9 °mph,0 °mph,22.14 °in,0.0 °in,Partly Cloudy
+15,1:49 PM,79 °F,23 °F,13 °%,NW,16 °mph,0 °mph,22.11 °in,0.0 °in,Mostly Cloudy
+16,2:44 PM,79 °F,14 °F,9 °%,WNW,13 °mph,0 °mph,22.10 °in,0.0 °in,Fair
+17,3:42 PM,79 °F,16 °F,9 °%,WNW,14 °mph,0 °mph,22.08 °in,0.0 °in,Partly Cloudy
+18,4:43 PM,77 °F,12 °F,9 °%,WNW,15 °mph,0 °mph,22.09 °in,0.0 °in,Fair
+19,5:40 PM,77 °F,18 °F,11 °%,WNW,10 °mph,0 °mph,22.09 °in,0.0 °in,Partly Cloudy
+20,6:44 PM,72 °F,19 °F,14 °%,WNW,8 °mph,0 °mph,22.12 °in,0.0 °in,Partly Cloudy
+21,7:43 PM,68 °F,21 °F,17 °%,NNW,6 °mph,0 °mph,22.14 °in,0.0 °in,Partly Cloudy
+22,8:49 PM,66 °F,27 °F,23 °%,NNE,6 °mph,0 °mph,22.16 °in,0.0 °in,Mostly Cloudy
+23,9:46 PM,64 °F,28 °F,26 °%,ENE,9 °mph,0 °mph,22.18 °in,0.0 °in,Mostly Cloudy
+24,10:45 PM,61 °F,28 °F,29 °%,WSW,5 °mph,0 °mph,22.19 °in,0.0 °in,Partly Cloudy
+25,11:43 PM,61 °F,32 °F,34 °%,SW,3 °mph,0 °mph,22.19 °in,0.0 °in,Partly Cloudy

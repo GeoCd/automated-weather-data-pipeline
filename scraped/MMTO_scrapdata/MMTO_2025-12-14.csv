@@ -1,27 +1,27 @@
-Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
-12:41 AM,50 °F,46 °F,87 °%,NW,6 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
-1:40 AM,50 °F,45 °F,82 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Mostly Cloudy
-2:40 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
-3:40 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Partly Cloudy
-4:40 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Fair
-5:44 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
-6:40 AM,45 °F,43 °F,93 °%,CALM,0 °mph,0 °mph,22.20 °in,0.0 °in,Mostly Cloudy
-7:41 AM,46 °F,45 °F,93 °%,CALM,0 °mph,0 °mph,22.21 °in,0.0 °in,Mostly Cloudy
-8:03 AM,48 °F,45 °F,87 °%,CALM,0 °mph,0 °mph,22.22 °in,0.0 °in,Smoke
-8:43 AM,50 °F,45 °F,82 °%,CALM,0 °mph,0 °mph,22.23 °in,0.0 °in,Smoke
-9:41 AM,55 °F,45 °F,67 °%,CALM,0 °mph,0 °mph,22.24 °in,0.0 °in,Smoke
-10:01 AM,55 °F,43 °F,63 °%,W,3 °mph,0 °mph,22.24 °in,0.0 °in,Smoke
-10:45 AM,63 °F,43 °F,48 °%,N,2 °mph,0 °mph,22.24 °in,0.0 °in,Partly Cloudy
-11:47 AM,64 °F,37 °F,37 °%,N,7 °mph,0 °mph,22.22 °in,0.0 °in,Fair
-12:42 PM,64 °F,34 °F,32 °%,NNE,12 °mph,0 °mph,22.21 °in,0.0 °in,Partly Cloudy
-1:41 PM,64 °F,34 °F,32 °%,N,13 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
-2:46 PM,66 °F,34 °F,30 °%,NNE,10 °mph,0 °mph,22.18 °in,0.0 °in,Mostly Cloudy
-3:46 PM,57 °F,30 °F,36 °%,NE,10 °mph,0 °mph,22.16 °in,0.0 °in,Mostly Cloudy
-4:42 PM,64 °F,37 °F,37 °%,NNE,12 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
-5:50 PM,59 °F,39 °F,48 °%,NE,16 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
-6:42 PM,57 °F,43 °F,59 °%,NNE,17 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
-7:44 PM,54 °F,43 °F,67 °%,NNE,3 °mph,0 °mph,22.21 °in,0.0 °in,Fair
-8:41 PM,54 °F,41 °F,62 °%,E,8 °mph,0 °mph,22.23 °in,0.0 °in,Fair
-9:46 PM,48 °F,41 °F,76 °%,N,9 °mph,0 °mph,22.25 °in,0.0 °in,Fair
-10:44 PM,48 °F,43 °F,82 °%,ESE,6 °mph,0 °mph,22.26 °in,0.0 °in,Fair
-11:44 PM,48 °F,43 °F,82 °%,NW,5 °mph,0 °mph,22.26 °in,0.0 °in,Fair
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:41 AM,50 °F,46 °F,87 °%,NW,6 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
+1,1:40 AM,50 °F,45 °F,82 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Mostly Cloudy
+2,2:40 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
+3,3:40 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Partly Cloudy
+4,4:40 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+5,5:44 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
+6,6:40 AM,45 °F,43 °F,93 °%,CALM,0 °mph,0 °mph,22.20 °in,0.0 °in,Mostly Cloudy
+7,7:41 AM,46 °F,45 °F,93 °%,CALM,0 °mph,0 °mph,22.21 °in,0.0 °in,Mostly Cloudy
+8,8:03 AM,48 °F,45 °F,87 °%,CALM,0 °mph,0 °mph,22.22 °in,0.0 °in,Smoke
+9,8:43 AM,50 °F,45 °F,82 °%,CALM,0 °mph,0 °mph,22.23 °in,0.0 °in,Smoke
+10,9:41 AM,55 °F,45 °F,67 °%,CALM,0 °mph,0 °mph,22.24 °in,0.0 °in,Smoke
+11,10:01 AM,55 °F,43 °F,63 °%,W,3 °mph,0 °mph,22.24 °in,0.0 °in,Smoke
+12,10:45 AM,63 °F,43 °F,48 °%,N,2 °mph,0 °mph,22.24 °in,0.0 °in,Partly Cloudy
+13,11:47 AM,64 °F,37 °F,37 °%,N,7 °mph,0 °mph,22.22 °in,0.0 °in,Fair
+14,12:42 PM,64 °F,34 °F,32 °%,NNE,12 °mph,0 °mph,22.21 °in,0.0 °in,Partly Cloudy
+15,1:41 PM,64 °F,34 °F,32 °%,N,13 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
+16,2:46 PM,66 °F,34 °F,30 °%,NNE,10 °mph,0 °mph,22.18 °in,0.0 °in,Mostly Cloudy
+17,3:46 PM,57 °F,30 °F,36 °%,NE,10 °mph,0 °mph,22.16 °in,0.0 °in,Mostly Cloudy
+18,4:42 PM,64 °F,37 °F,37 °%,NNE,12 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
+19,5:50 PM,59 °F,39 °F,48 °%,NE,16 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
+20,6:42 PM,57 °F,43 °F,59 °%,NNE,17 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
+21,7:44 PM,54 °F,43 °F,67 °%,NNE,3 °mph,0 °mph,22.21 °in,0.0 °in,Fair
+22,8:41 PM,54 °F,41 °F,62 °%,E,8 °mph,0 °mph,22.23 °in,0.0 °in,Fair
+23,9:46 PM,48 °F,41 °F,76 °%,N,9 °mph,0 °mph,22.25 °in,0.0 °in,Fair
+24,10:44 PM,48 °F,43 °F,82 °%,ESE,6 °mph,0 °mph,22.26 °in,0.0 °in,Fair
+25,11:44 PM,48 °F,43 °F,82 °%,NW,5 °mph,0 °mph,22.26 °in,0.0 °in,Fair

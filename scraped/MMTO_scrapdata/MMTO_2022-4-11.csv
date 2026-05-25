@@ -1,26 +1,26 @@
-Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
-11:48 PM,52 °F,43 °F,71 °%,CALM,0 °mph,0 °mph,22.16 °in,0.0 °in,Partly Cloudy
-12:42 AM,48 °F,43 °F,82 °%,SE,7 °mph,0 °mph,22.15 °in,0.0 °in,Partly Cloudy
-1:42 AM,48 °F,45 °F,87 °%,CALM,0 °mph,0 °mph,22.14 °in,0.0 °in,Partly Cloudy
-2:46 AM,46 °F,43 °F,87 °%,S,3 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
-3:42 AM,45 °F,41 °F,87 °%,CALM,0 °mph,0 °mph,22.12 °in,0.0 °in,Partly Cloudy
-4:42 AM,43 °F,41 °F,93 °%,ENE,3 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
-5:47 AM,43 °F,43 °F,100 °%,NNE,2 °mph,0 °mph,22.14 °in,0.0 °in,Partly Cloudy
-6:46 AM,43 °F,43 °F,100 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Mostly Cloudy
-7:46 AM,50 °F,45 °F,82 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
-8:46 AM,57 °F,45 °F,63 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
-9:46 AM,64 °F,43 °F,45 °%,NW,5 °mph,0 °mph,22.18 °in,0.0 °in,Mostly Cloudy
-10:46 AM,68 °F,41 °F,37 °%,ESE,5 °mph,0 °mph,22.16 °in,0.0 °in,Mostly Cloudy
-11:51 AM,70 °F,41 °F,35 °%,SW,5 °mph,0 °mph,22.15 °in,0.0 °in,Mostly Cloudy
-12:49 PM,73 °F,39 °F,29 °%,S,12 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
-1:47 PM,75 °F,32 °F,21 °%,SSE,6 °mph,0 °mph,22.10 °in,0.0 °in,Mostly Cloudy
-2:46 PM,73 °F,36 °F,25 °%,S,12 °mph,0 °mph,22.08 °in,0.0 °in,Mostly Cloudy
-3:43 PM,68 °F,41 °F,37 °%,W,10 °mph,0 °mph,22.08 °in,0.0 °in,Light Rain with Thunder
-4:32 PM,66 °F,37 °F,35 °%,S,12 °mph,0 °mph,22.08 °in,0.0 °in,Mostly Cloudy
-4:46 PM,66 °F,39 °F,37 °%,SSE,17 °mph,0 °mph,22.08 °in,0.0 °in,Cloudy
-5:55 PM,70 °F,39 °F,33 °%,SSW,15 °mph,0 °mph,22.07 °in,0.0 °in,Mostly Cloudy
-6:51 PM,63 °F,39 °F,42 °%,S,13 °mph,0 °mph,22.11 °in,0.0 °in,Cloudy
-7:48 PM,63 °F,43 °F,48 °%,S,5 °mph,0 °mph,22.12 °in,0.0 °in,Cloudy
-8:51 PM,59 °F,43 °F,55 °%,N,5 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
-9:47 PM,55 °F,41 °F,58 °%,ESE,6 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
-10:47 PM,54 °F,41 °F,62 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Mostly Cloudy
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,11:48 PM,52 °F,43 °F,71 °%,CALM,0 °mph,0 °mph,22.16 °in,0.0 °in,Partly Cloudy
+1,12:42 AM,48 °F,43 °F,82 °%,SE,7 °mph,0 °mph,22.15 °in,0.0 °in,Partly Cloudy
+2,1:42 AM,48 °F,45 °F,87 °%,CALM,0 °mph,0 °mph,22.14 °in,0.0 °in,Partly Cloudy
+3,2:46 AM,46 °F,43 °F,87 °%,S,3 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
+4,3:42 AM,45 °F,41 °F,87 °%,CALM,0 °mph,0 °mph,22.12 °in,0.0 °in,Partly Cloudy
+5,4:42 AM,43 °F,41 °F,93 °%,ENE,3 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
+6,5:47 AM,43 °F,43 °F,100 °%,NNE,2 °mph,0 °mph,22.14 °in,0.0 °in,Partly Cloudy
+7,6:46 AM,43 °F,43 °F,100 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Mostly Cloudy
+8,7:46 AM,50 °F,45 °F,82 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
+9,8:46 AM,57 °F,45 °F,63 °%,CALM,0 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
+10,9:46 AM,64 °F,43 °F,45 °%,NW,5 °mph,0 °mph,22.18 °in,0.0 °in,Mostly Cloudy
+11,10:46 AM,68 °F,41 °F,37 °%,ESE,5 °mph,0 °mph,22.16 °in,0.0 °in,Mostly Cloudy
+12,11:51 AM,70 °F,41 °F,35 °%,SW,5 °mph,0 °mph,22.15 °in,0.0 °in,Mostly Cloudy
+13,12:49 PM,73 °F,39 °F,29 °%,S,12 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
+14,1:47 PM,75 °F,32 °F,21 °%,SSE,6 °mph,0 °mph,22.10 °in,0.0 °in,Mostly Cloudy
+15,2:46 PM,73 °F,36 °F,25 °%,S,12 °mph,0 °mph,22.08 °in,0.0 °in,Mostly Cloudy
+16,3:43 PM,68 °F,41 °F,37 °%,W,10 °mph,0 °mph,22.08 °in,0.0 °in,Light Rain with Thunder
+17,4:32 PM,66 °F,37 °F,35 °%,S,12 °mph,0 °mph,22.08 °in,0.0 °in,Mostly Cloudy
+18,4:46 PM,66 °F,39 °F,37 °%,SSE,17 °mph,0 °mph,22.08 °in,0.0 °in,Cloudy
+19,5:55 PM,70 °F,39 °F,33 °%,SSW,15 °mph,0 °mph,22.07 °in,0.0 °in,Mostly Cloudy
+20,6:51 PM,63 °F,39 °F,42 °%,S,13 °mph,0 °mph,22.11 °in,0.0 °in,Cloudy
+21,7:48 PM,63 °F,43 °F,48 °%,S,5 °mph,0 °mph,22.12 °in,0.0 °in,Cloudy
+22,8:51 PM,59 °F,43 °F,55 °%,N,5 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
+23,9:47 PM,55 °F,41 °F,58 °%,ESE,6 °mph,0 °mph,22.13 °in,0.0 °in,Partly Cloudy
+24,10:47 PM,54 °F,41 °F,62 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Mostly Cloudy

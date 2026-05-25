@@ -1,26 +1,26 @@
-Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
-12:40 AM,46 °F,39 °F,76 °%,E,6 °mph,0 °mph,22.16 °in,0.0 °in,Partly Cloudy
-1:46 AM,45 °F,39 °F,81 °%,ESE,3 °mph,0 °mph,22.16 °in,0.0 °in,Partly Cloudy
-2:51 AM,43 °F,39 °F,87 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Fair
-4:50 AM,39 °F,37 °F,93 °%,CALM,0 °mph,0 °mph,22.14 °in,0.0 °in,Fair
-5:49 AM,39 °F,37 °F,93 °%,CALM,0 °mph,0 °mph,22.16 °in,0.0 °in,Fair
-6:40 AM,39 °F,36 °F,87 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Fair
-7:44 AM,43 °F,37 °F,81 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Fair
-8:46 AM,50 °F,39 °F,66 °%,S,3 °mph,0 °mph,22.20 °in,0.0 °in,Fair
-9:42 AM,57 °F,41 °F,55 °%,SE,5 °mph,0 °mph,22.21 °in,0.0 °in,Fair
-10:15 AM,61 °F,41 °F,48 °%,SE,9 °mph,0 °mph,22.21 °in,0.0 °in,Fair
-10:41 AM,61 °F,39 °F,45 °%,ESE,5 °mph,0 °mph,22.21 °in,0.0 °in,Fair
-11:10 AM,64 °F,39 °F,40 °%,NW,5 °mph,0 °mph,22.19 °in,0.0 °in,Fair
-11:42 AM,64 °F,37 °F,37 °%,WSW,6 °mph,0 °mph,22.19 °in,0.0 °in,Fair
-12:42 PM,68 °F,36 °F,30 °%,E,7 °mph,0 °mph,22.16 °in,0.0 °in,Partly Cloudy
-1:41 PM,66 °F,37 °F,35 °%,W,9 °mph,0 °mph,22.14 °in,0.0 °in,Mostly Cloudy
-2:43 PM,66 °F,34 °F,30 °%,S,7 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
-3:43 PM,70 °F,34 °F,27 °%,NNE,10 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
-4:43 PM,63 °F,32 °F,32 °%,NNW,9 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
-5:52 PM,63 °F,34 °F,34 °%,SE,5 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
-6:46 PM,61 °F,34 °F,36 °%,NNW,2 °mph,0 °mph,22.14 °in,0.0 °in,Mostly Cloudy
-7:44 PM,55 °F,36 °F,47 °%,NE,6 °mph,0 °mph,22.15 °in,0.0 °in,Mostly Cloudy
-8:43 PM,57 °F,37 °F,48 °%,NNW,6 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
-9:47 PM,55 °F,39 °F,54 °%,WNW,3 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
-10:48 PM,54 °F,36 °F,51 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
-11:49 PM,50 °F,37 °F,62 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,12:40 AM,46 °F,39 °F,76 °%,E,6 °mph,0 °mph,22.16 °in,0.0 °in,Partly Cloudy
+1,1:46 AM,45 °F,39 °F,81 °%,ESE,3 °mph,0 °mph,22.16 °in,0.0 °in,Partly Cloudy
+2,2:51 AM,43 °F,39 °F,87 °%,CALM,0 °mph,0 °mph,22.15 °in,0.0 °in,Fair
+3,4:50 AM,39 °F,37 °F,93 °%,CALM,0 °mph,0 °mph,22.14 °in,0.0 °in,Fair
+4,5:49 AM,39 °F,37 °F,93 °%,CALM,0 °mph,0 °mph,22.16 °in,0.0 °in,Fair
+5,6:40 AM,39 °F,36 °F,87 °%,CALM,0 °mph,0 °mph,22.18 °in,0.0 °in,Fair
+6,7:44 AM,43 °F,37 °F,81 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+7,8:46 AM,50 °F,39 °F,66 °%,S,3 °mph,0 °mph,22.20 °in,0.0 °in,Fair
+8,9:42 AM,57 °F,41 °F,55 °%,SE,5 °mph,0 °mph,22.21 °in,0.0 °in,Fair
+9,10:15 AM,61 °F,41 °F,48 °%,SE,9 °mph,0 °mph,22.21 °in,0.0 °in,Fair
+10,10:41 AM,61 °F,39 °F,45 °%,ESE,5 °mph,0 °mph,22.21 °in,0.0 °in,Fair
+11,11:10 AM,64 °F,39 °F,40 °%,NW,5 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+12,11:42 AM,64 °F,37 °F,37 °%,WSW,6 °mph,0 °mph,22.19 °in,0.0 °in,Fair
+13,12:42 PM,68 °F,36 °F,30 °%,E,7 °mph,0 °mph,22.16 °in,0.0 °in,Partly Cloudy
+14,1:41 PM,66 °F,37 °F,35 °%,W,9 °mph,0 °mph,22.14 °in,0.0 °in,Mostly Cloudy
+15,2:43 PM,66 °F,34 °F,30 °%,S,7 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
+16,3:43 PM,70 °F,34 °F,27 °%,NNE,10 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
+17,4:43 PM,63 °F,32 °F,32 °%,NNW,9 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
+18,5:52 PM,63 °F,34 °F,34 °%,SE,5 °mph,0 °mph,22.13 °in,0.0 °in,Mostly Cloudy
+19,6:46 PM,61 °F,34 °F,36 °%,NNW,2 °mph,0 °mph,22.14 °in,0.0 °in,Mostly Cloudy
+20,7:44 PM,55 °F,36 °F,47 °%,NE,6 °mph,0 °mph,22.15 °in,0.0 °in,Mostly Cloudy
+21,8:43 PM,57 °F,37 °F,48 °%,NNW,6 °mph,0 °mph,22.17 °in,0.0 °in,Mostly Cloudy
+22,9:47 PM,55 °F,39 °F,54 °%,WNW,3 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
+23,10:48 PM,54 °F,36 °F,51 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy
+24,11:49 PM,50 °F,37 °F,62 °%,CALM,0 °mph,0 °mph,22.19 °in,0.0 °in,Mostly Cloudy

@@ -1,5 +1,7 @@
 utils/
-__pycache__/ -f
+__pycache__/
 
 *.html
 .env
+
+mx-weather-datasets/mexico_stations_test.csv
