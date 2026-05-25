@@ -154,11 +154,9 @@ def main():
 
     # Debug
     """     
-    logger.info(f"{'='*50}")
     logger.info(f"SUMMARY | OK: {len(ok)} | Skipped: {len(skipped)} | Failures: {len(failures)}")
     for f in failures:
         logger.warning(f"  FAILED: {f}")
-    logger.info(f"{'='*50}") 
     """
 
 
