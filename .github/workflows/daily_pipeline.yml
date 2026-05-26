@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SUBMODULE_PAT }}
 
       - name: Install Chrome and Chromedriver
         run: |
@@ -39,12 +39,25 @@ jobs:
         run: |
           git submodule update --init --recursive --remote -f
 
-      - name: Commit and push updated data
+      - name: Commit and push changes inside the Submodule Repo
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add mx-weather-datasets/
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          cd mx-weather-datasets
+          git checkout main
+
+          git add .
+          git diff-index --quiet HEAD || git commit -m "chore: upload daily weather data $(date +'%Y-%m-%d')"
+          git push origin main
+
+      - name: Update parent repository pointer
+        run: |
+          cd ..
+      
+          git add mx-weather-datasets
           git add scraped/
           git add models/
-          git diff --cached --quiet HEAD || git commit -m "chore: daily data update $(date +'%Y-%m-%d')"
-          git push
+          
+          git diff --cached --quiet HEAD || git commit -m "chore: daily data update and submodule sync $(date +'%Y-%m-%d')"
+          git push origin HEAD
