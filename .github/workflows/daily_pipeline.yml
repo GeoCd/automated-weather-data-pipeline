@@ -35,10 +35,6 @@ jobs:
       - name: Run pipeline
         run: python main_pipeline.py --mode batch --trainAgain
 
-      - name: Update submodule to latest commit
-        run: |
-          git submodule update --init --recursive --remote -f
-
       - name: Commit and push changes inside the Submodule Repo
         run: |
           git config --global user.name "github-actions[bot]"
