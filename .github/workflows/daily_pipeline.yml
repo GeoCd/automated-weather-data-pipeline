@@ -53,7 +53,7 @@ jobs:
 
       - name: Update parent repository pointer
         run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${{ secrets.SUBMODULE_PAT }}@github.com/${{ github.repository }}.git
           git add mx-weather-datasets
           git add scraped/
           git add models/
