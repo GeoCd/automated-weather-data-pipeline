@@ -53,8 +53,6 @@ jobs:
 
       - name: Update parent repository pointer
         run: |
-          cd ..
-      
           git add mx-weather-datasets
           git add scraped/
           git add models/
