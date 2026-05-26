@@ -16,7 +16,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Install Chrome and Chromedriver
         run: |
@@ -34,6 +35,10 @@ jobs:
       - name: Run pipeline
         run: python main_pipeline.py --mode batch --trainAgain
 
+      - name: Update submodule to latest commit
+        run: |
+          git submodule update --init --recursive --remote -f
+
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
@@ -41,5 +46,5 @@ jobs:
           git add mx-weather-datasets/
           git add scraped/
           git add models/
-          git diff --cached --quiet || git commit -m "chore: daily data update $(date +'%Y-%m-%d')"
+          git diff --cached --quiet HEAD || git commit -m "chore: daily data update $(date +'%Y-%m-%d')"
           git push
