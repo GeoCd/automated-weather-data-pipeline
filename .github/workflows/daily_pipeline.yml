@@ -52,10 +52,12 @@ jobs:
           git push origin main
 
       - name: Update parent repository pointer
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
           git add mx-weather-datasets
           git add scraped/
           git add models/
-          
           git diff --cached --quiet HEAD || git commit -m "chore: daily data update and submodule sync $(date +'%Y-%m-%d')"
           git push origin HEAD
