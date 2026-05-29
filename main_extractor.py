@@ -27,7 +27,7 @@ def load_station_row(csv_path: Path, station_id: str) -> dict | None:
     with open(csv_path, newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            if row['Estacion'].strip() == station_id:
+            if row['ICAO'].strip() == station_id:
                 return row
     return None
 
@@ -39,7 +39,7 @@ def update_station_csv(csv_path: Path, station_id: str, field: str, value: str):
         reader = csv.DictReader(f)
         fieldnames = reader.fieldnames
         for row in reader:
-            if row['Estacion'].strip() == station_id:
+            if row['ICAO'].strip() == station_id:
                 row[field] = value
             rows.append(row)
 
@@ -60,10 +60,10 @@ def ensure_csv_columns(csv_path: Path):
         rows = list(reader)
 
     changed = False
-    if 'Status' not in fieldnames:
-        fieldnames.append('Status')
+    if 'STATUS' not in fieldnames:
+        fieldnames.append('STATUS')
         for row in rows:
-            row['Status'] = 'ONLINE'
+            row['STATUS'] = 'ONLINE'
         changed = True
     if 'Registered' not in fieldnames:
         fieldnames.append('Registered')
@@ -177,7 +177,7 @@ def main():
         logger.error(f"Station {station_id} not found in {csv_path}. Aborting.")
         return
 
-    city = station_row['Ciudad'].strip().lower().replace(' ', '-')
+    city = station_row['CITY'].strip().lower().replace(' ', '-')
     url  = config.BASE_URL.format(city=city, station=station_id)
 
     if args.register == 'new':

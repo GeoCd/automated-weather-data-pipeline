@@ -3,6 +3,7 @@ import os
 import csv
 import regex as re
 import pandas as pd
+import numpy as np
 from pathlib import Path
 
 from src.config import WorkflowConfiguration
@@ -14,9 +15,9 @@ def load_station_dict(csv_path: Path) -> dict:
         reader = csv.DictReader(f)
         data = list(reader)
     for row in data:
-        station_id = row["Estacion"]
+        station_id = row["ICAO"]
         entry = dict(row)
-        del entry["Estacion"]
+        del entry["ICAO"]
         stationDict[station_id] = entry
     return stationDict
 
@@ -41,9 +42,15 @@ def run_scrap_to_raw(Id: str):
         getDate       = fileNameStruct[-1]
         file_date     = pd.to_datetime(getDate, format='%Y-%m-%d')
 
-        daily_df.insert(loc=0, column='Country', value=stationDict[Id]['Pais'])
-        daily_df.insert(loc=0, column='State',   value=stationDict[Id]['Estado'])
-        daily_df.insert(loc=0, column='City',    value=stationDict[Id]['Ciudad'].capitalize())
+        daily_df.insert(loc=0, column='Elevation', value=stationDict[Id]['ELEV'])
+        daily_df.insert(loc=0, column='Long_num', value=stationDict[Id]['LONG_NUM'])
+        daily_df.insert(loc=0, column='Long', value=stationDict[Id]['LONG'])
+        daily_df.insert(loc=0, column='Lat_num', value=stationDict[Id]['LAT_NUM'])
+        daily_df.insert(loc=0, column='Lat', value=stationDict[Id]['LAT'])
+        daily_df.insert(loc=0, column='City',    value=stationDict[Id]['CITY'].capitalize())
+        daily_df.insert(loc=0, column='State',   value=stationDict[Id]['STATE'])
+        daily_df.insert(loc=0, column='Country', value=stationDict[Id]['COUNTRY'])
+        daily_df.insert(loc=0, column='Code',    value=stationDict[Id]['IATA'])
         daily_df.insert(loc=0, column='Station', value=Id)
 
         daily_df.insert(loc=0, column='Time_24',
@@ -94,7 +101,6 @@ def remove_outliers(df: pd.DataFrame) -> pd.DataFrame:
     df = df[(df["Humidity(%)"]    >= config.HUM_MIN)  & (df["Humidity(%)"]    <= config.HUM_MAX)]
     df = df[df["Wind Speed(mph)"] <= config.WIND_MAX]
     df.drop(labels=['Precipitation(in)'], axis=1, inplace=True)
-    print(df)
     return df
 
 
@@ -106,10 +112,21 @@ def resample_hourly(df: pd.DataFrame, Id: str) -> pd.DataFrame:
     resampled = numeric.resample("h").mean()
     resampled = resampled.interpolate(method="time", limit=6)
 
-    resampled.insert(loc=0, column='Country', value=stationDict[Id]['Pais'])
-    resampled.insert(loc=0, column='State',   value=stationDict[Id]['Estado'])
-    resampled.insert(loc=0, column='City',    value=stationDict[Id]['Ciudad'].capitalize())
+    cat_cols  = ['Wind', 'Condition']
+    existing  = [c for c in cat_cols if c in df.columns]
+    if existing:
+        categorical = df[existing].resample("h").agg(
+            lambda x: x.dropna().mode().iloc[0] if len(x.dropna()) > 0 else np.nan
+        )
+        categorical = categorical.ffill(limit=6)
+        resampled = pd.concat([resampled, categorical], axis=1)
+
+    resampled.insert(loc=0, column='City',    value=stationDict[Id]['CITY'].capitalize())
+    resampled.insert(loc=0, column='State',   value=stationDict[Id]['STATE'])
+    resampled.insert(loc=0, column='Country', value=stationDict[Id]['COUNTRY'])
+    resampled.insert(loc=0, column='Code',    value=stationDict[Id]['IATA'])
     resampled.insert(loc=0, column='Station', value=Id)
+
     return resampled
 
 

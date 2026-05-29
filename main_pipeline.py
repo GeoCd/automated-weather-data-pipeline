@@ -27,14 +27,14 @@ def load_registered_stations(csv_path: Path) -> list:
     with open(csv_path, newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            status     = row.get('Status',     'OFFLINE').strip().upper()
+            status     = row.get('STATUS',     'OFFLINE').strip().upper()
             registered = row.get('Registered', '0').strip()
             if status == 'ONLINE' and registered == '1':
                 stations.append({
-                    'ciudad':   row['Ciudad'].strip().lower().replace(' ', '-'),
-                    'estacion': row['Estacion'].strip(),
-                    'estado':   row['Estado'].strip(),
-                    'pais':     row['Pais'].strip()
+                    'ciudad':   row['CITY'].strip().lower().replace(' ', '-'),
+                    'estacion': row['ICAO'].strip(),
+                    'estado':   row['STATE'].strip(),
+                    'pais':     row['COUNTRY'].strip()
                 })
     return stations
 
@@ -150,8 +150,8 @@ def main():
             # Transform and update clean CSV
             df = workflow.run_workflow(id=station_id, mode=args.mode)
             ok.append(station_id)
-            lstm_model.run_model(df, station_id, trainAgain=args.trainAgain)
-
+            #lstm_model.run_model(df, station_id, trainAgain=args.trainAgain)
+    
     # Debug
     """     
     logger.info(f"SUMMARY | OK: {len(ok)} | Skipped: {len(skipped)} | Failures: {len(failures)}")
