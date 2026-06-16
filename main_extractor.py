@@ -132,9 +132,7 @@ def extract_with_retry(url, date_str, station_id, max_retries=config.MAX_RETRIES
     for attempt in range(1, max_retries + 1):
         kill_selenium_processes()
         try:
-            result = showcase_get_table(
-                driver_start(), url, config.CSS_ELEMENT, config.OUT_FORMAT, date_str, station_id
-            )
+            result = showcase_get_table(driver_start(), url, config.CSS_ELEMENT, config.OUT_FORMAT, date_str, station_id)
             return 'ok'
         except TimeoutException:
             logger.warning(f"[{station_id}] {date_str} attempt {attempt}: TIMEOUT")
@@ -236,7 +234,6 @@ def main():
         logger.warning(f"  {date_str} -> {reason}")
     logger.info(f"{'='*50}") 
     """
-
 
 if __name__ == "__main__":
     main()

@@ -1,8 +1,6 @@
 # Automated Weather Data Pipeline - Mexico
 
-This is the production system behind the [MMMX Weather Dataset](https://www.kaggle.com/datasets/jorgeaconde/historical-weather-mexico-stations) and [MMMX Weather Analysis](https://github.com/GeoCd/MMMX-station-weather-analysis) projects. While that one is exploratory, this one runs daily, extracts real observations from weather stations across Mexico, cleans and resamples them, retrains the forecasting models, pushes everything to a embbeded repo and then updates everything to Kaggle automatically.
-
-If you want to understand the modeling decisions, go to the Analysis. If you want to see the system that keeps the data alive, you're in the right place.
+This is the production system behind the [MMMX Weather Dataset](https://www.kaggle.com/datasets/jorgeaconde/historical-weather-mexico-stations) and [MMMX Weather Analysis](https://github.com/GeoCd/MMMX-station-weather-analysis) projects. While that one is exploratory, this one runs daily, extracts real observations from weather stations across Mexico, cleans and resamples them, pushes everything to a embbeded repo and then updates everything to Kaggle automatically.
 
 ---
 
@@ -15,12 +13,12 @@ src/
 ├── scripts/
 │   └── extractor.py          # selenium scraper core
 └── workflows/
-    ├── weather_workflow.py   # scrap → raw → clean pipeline
+    ├── weather_workflow.py   # scrap -> raw -> clean pipeline
     └── lstm_model.py         # model training per station
 
-mx-weather-datasets/          # submodule → Kaggle dataset repo
+mx-weather-datasets/          # submodule -> Github Repo -> Kaggle dataset
 scraped/                      # raw daily CSVs per station
-models/                       # model output after training
+models/                       # model output after training in notebooks
 notebooks/                    # analysis and experiments
 main_pipeline.py              # daily automated entry point
 main_extractor.py             # manual extraction and station registration
@@ -29,10 +27,9 @@ main_extractor.py             # manual extraction and station registration
 Data flows in one direction:
 
 ```
-Data Provider → scraper → scraped/{STATION}_scrapdata/
-              → weather_workflow → raw-data/ → clean-data/
-              → lstm_model → models/
-              → git push → Kaggle
+Data Provider -> scraper -> scraped/{STATION}_scrapdata/
+              -> weather_workflow -> raw-data/ -> clean-data/ -> mexico_weather.csv
+              -> git push -> Kaggle
 ```
 
 ---
@@ -52,15 +49,14 @@ The pipeline only processes stations where `Status=ONLINE` and `Registered=1`. C
 
 ## Pipeline
 
-The CI/CD workflow runs daily at **00:01 CDMX (06:01 UTC)** via GitHub Actions.
+The CI/CD workflow runs daily around **00:01 CDMX (06:01 UTC)** via GitHub Actions.
 
 Each run:
 1. Checks the last extracted date per station
 2. Skips stations with more than 5 missing days (use `main_extractor.py` to recover those)
 3. Extracts missing observations from the data provider
 4. Runs the transformation and cleaning workflow
-5. Retrains the LSTM model with updated data
-6. Commits updated datasets and models back to the repo
+5. Commits updated datasets back to the repo
 
 The commit history in GitHub Actions doubles as an execution log. If a run fails, GitHub sends an automatic notification.
 
@@ -74,14 +70,19 @@ The cleaned dataset is available on Kaggle or in mx-weather-datasets, both updat
 |---|---|
 | DateTime | UTC |
 | Station | ICAO code |
-| City / State / Country | — |
+| Code | Country code |
+| City / State / Country | - |
+| Lat_num | Num |
+| Long_num | Num |
+| Elevation | Num |
 | Temperature | °F |
 | Dew Point | °F |
 | Humidity | % |
 | Wind Speed | mph |
 | Wind Gust | mph |
 | Pressure | inHg |
-
+| Wind | - |
+| Condition | - |
 ---
 
 ## Local Setup
@@ -104,3 +105,4 @@ pip install -r requirements.txt
 ```
 
 Requires Chrome and Chromedriver installed locally. On Linux, Chromedriver is expected at `/usr/bin/chromedriver`. On Windows, `webdriver-manager` handles it automatically.
+For best results and avoid zombie processes, a run on Linux is recommended.
