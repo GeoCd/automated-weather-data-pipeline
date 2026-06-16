@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO,format='%(asctime)s - %(name)s - %(leveln
 class WorkflowConfiguration:
 
     # Paths
-    ROOT_DIR:           Path =  Path(os.getcwd())
+    ROOT_DIR:           Path = Path(os.getcwd())
     SCRAP_DIR:          Path = ROOT_DIR / "scraped"
 
     DATA_DIR:           Path = ROOT_DIR / "mx-weather-datasets"
@@ -52,5 +52,5 @@ class WorkflowConfiguration:
     HUM_MIN:            int = 0       # %
     HUM_MAX:            int = 100     # %
     WIND_MAX:           int = 80      # mph
-
+    
     PIPELINE_MODE:      str = "batch"

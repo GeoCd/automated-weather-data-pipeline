@@ -100,6 +100,7 @@ def remove_outliers(df: pd.DataFrame) -> pd.DataFrame:
     df = df[(df["Pressure(in)"]   >= config.PRES_MIN) & (df["Pressure(in)"]   <= config.PRES_MAX)]
     df = df[(df["Humidity(%)"]    >= config.HUM_MIN)  & (df["Humidity(%)"]    <= config.HUM_MAX)]
     df = df[df["Wind Speed(mph)"] <= config.WIND_MAX]
+    df = df[df["Wind Gust(mph)"] <= config.WIND_MAX]
     df.drop(labels=['Precipitation(in)'], axis=1, inplace=True)
     return df
 
