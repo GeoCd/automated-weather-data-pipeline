@@ -1,6 +1,7 @@
 utils/
 __pycache__/
 experiments/
+scraped_temp/
 
 *.html
 .env

@@ -12,6 +12,9 @@ class WorkflowConfiguration:
     ROOT_DIR:           Path = Path(os.getcwd())
     SCRAP_DIR:          Path = ROOT_DIR / "scraped"
 
+    # Testing:
+    # SCRAP_DIR:          Path = ROOT_DIR / "scraped_temp"
+
     DATA_DIR:           Path = ROOT_DIR / "mx-weather-datasets"
     RAW_DIR:            Path = DATA_DIR / "raw-data"
     CLEAN_DIR:          Path = DATA_DIR / "clean-data"
@@ -28,10 +31,11 @@ class WorkflowConfiguration:
 
     # Scraping Config
     BASE_URL:           str = "https://www.wunderground.com/history/daily/mx/{city}/{station}/date"
-    CSS_ELEMENT:        str = "table[mat-table].mat-mdc-table[aria-labelledby='History observation']"
+    # CSS_ELEMENT:        str = "table[mat-table].mat-mdc-table[aria-labelledby='History observation']" // OLD ELEMENT in Previos Website
+    CSS_ELEMENT:        str = "table.observations-table"
     OUT_FORMAT:         str = "CSV"       
     MAX_RETRIES:        int = 2
-    MAX_MISSING_DAYS:   int = 5
+    MAX_MISSING_DAYS:   int = 7
 
     # Data for Training & Analysis
     LABELS:             list[str] = field(default_factory=lambda:   [
