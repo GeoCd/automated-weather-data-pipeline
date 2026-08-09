@@ -2,6 +2,7 @@ utils/
 __pycache__/
 experiments/
 scraped_temp/
+temp-mx-weather-datasets/
 
 *.html
 .env

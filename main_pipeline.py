@@ -1,6 +1,6 @@
 # main_pipeline.py
 # Daily automated pipeline: updates registered and online stations only.
-# python main_pipeline.py --mode batch --trainAgain
+# python main_pipeline.py --mode batch
 # ------------------------------------------------------------------------------------------------------------
 import csv
 import datetime
@@ -133,14 +133,14 @@ def main():
     # ----- console parser -----
     argparser   = argparse.ArgumentParser()
     argparser.add_argument("--mode", type=str, default=config.PIPELINE_MODE,choices=["batch", "incremental"])
-    argparser.add_argument("--trainAgain", action="store_true")
+    # argparser.add_argument("--trainAgain", action="store_true")
     args = argparser.parse_args()
     # ----- console parser -----
 
     today     = datetime.date.today()
     yesterday = today - datetime.timedelta(days=1)
 
-    stations_csv = config.DATA_DIR / "mexico_stations.csv"
+    stations_csv = config.STATIONS_DIR
     stations     = load_registered_stations(stations_csv)
 
     logger.info(f"Pipeline started: {today.isoformat()} | Target: {yesterday.isoformat()}")                             #Logs

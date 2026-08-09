@@ -16,6 +16,10 @@ class WorkflowConfiguration:
     # SCRAP_DIR:          Path = ROOT_DIR / "scraped_temp"
 
     DATA_DIR:           Path = ROOT_DIR / "mx-weather-datasets"
+
+    # Testing:
+    # DATA_DIR:           Path = ROOT_DIR / "temp-mx-weather-datasets"
+
     RAW_DIR:            Path = DATA_DIR / "raw-data"
     CLEAN_DIR:          Path = DATA_DIR / "clean-data"
     STATIONS_DIR:       Path = DATA_DIR / "mexico_stations.csv"

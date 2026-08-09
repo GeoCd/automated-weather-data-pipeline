@@ -62,9 +62,14 @@ def run_scrap_to_raw(Id: str):
 
         daily_df.drop(labels=['Time_24'], axis=1, inplace=True)
 
+        
+
         for label in config.LABELS:
             daily_df[label] = daily_df[label].astype(str).apply(lambda x: re.sub(r"[^0-9\.-]", "", x))
-            if label == 'Pressure' or label == 'Precip.':
+            if label == 'Pressure':
+                daily_df[label] = daily_df[label].astype(float)
+            elif label == 'Wind Gust' or label == 'Precip.':
+                daily_df[label] = daily_df[label].replace('-', 0, regex=True)
                 daily_df[label] = daily_df[label].astype(float)
             else:
                 daily_df[label] = daily_df[label].astype(int)
