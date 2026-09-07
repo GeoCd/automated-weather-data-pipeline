@@ -66,13 +66,12 @@ def run_scrap_to_raw(Id: str):
 
         for label in config.LABELS:
             daily_df[label] = daily_df[label].astype(str).apply(lambda x: re.sub(r"[^0-9\.-]", "", x))
-            if label == 'Pressure':
-                daily_df[label] = daily_df[label].astype(float)
-            elif label == 'Wind Gust' or label == 'Precip.':
-                daily_df[label] = daily_df[label].replace('-', 0, regex=True)
-                daily_df[label] = daily_df[label].astype(float)
+            # blank/dash cells become empty strings after the regex strip; coerce those to NaN before casting
+            daily_df[label] = pd.to_numeric(daily_df[label], errors='coerce')
+            if label == 'Pressure' or label == 'Wind Gust' or label == 'Precip.':
+                daily_df[label] = daily_df[label].fillna(0.0).astype(float)
             else:
-                daily_df[label] = daily_df[label].astype(int)
+                daily_df[label] = daily_df[label].fillna(0).astype(int)
 
         temp_df.append(daily_df.reset_index(drop=True))
 
