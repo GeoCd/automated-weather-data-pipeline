@@ -182,9 +182,12 @@ def main():
             succesful_stations.append(station_id)
             temp_df_storage.append(df)
 
-    final_df = pd.concat(temp_df_storage)
-    outputFile = config.DATA_DIR/"mexico_weather.csv"
-    final_df.to_csv(outputFile)
+    if not temp_df_storage:
+        logger.info("No new data extracted for any station. Skipping concat/export.")                                  #Logs
+    else:
+        final_df = pd.concat(temp_df_storage)
+        outputFile = config.DATA_DIR/"mexico_weather.csv"
+        final_df.to_csv(outputFile)
 
     # Debug
     """     

@@ -39,7 +39,7 @@ class WorkflowConfiguration:
     CSS_ELEMENT:        str = "table.observations-table"
     OUT_FORMAT:         str = "CSV"       
     MAX_RETRIES:        int = 2
-    MAX_MISSING_DAYS:   int = 15
+    MAX_MISSING_DAYS:   int = 60
 
     # Data for Training & Analysis
     LABELS:             list[str] = field(default_factory=lambda:   [
