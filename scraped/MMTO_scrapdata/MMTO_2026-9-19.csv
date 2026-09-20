@@ -1,0 +1,33 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,11:42 PM,57 °F,52 °F,82 %,NNE,3 mph,-,22.2 in,-,Mostly Cloudy
+1,10:44 PM,57 °F,54 °F,88 %,ENE,3 mph,-,22.21 in,-,Partly Cloudy
+2,9:40 PM,57 °F,54 °F,88 %,CALM,0 mph,-,22.2 in,-,Partly Cloudy
+3,8:40 PM,57 °F,55 °F,94 %,ESE,5 mph,-,22.18 in,-,Mostly Cloudy
+4,8:31 PM,57 °F,54 °F,88 %,NNE,2 mph,-,22.18 in,-,Mostly Cloudy
+5,7:59 PM,57 °F,52 °F,82 %,W,7 mph,-,22.18 in,-,Light Rain with Thunder
+6,7:41 PM,57 °F,52 °F,82 %,NW,7 mph,-,22.17 in,-,T-Storm
+7,7:30 PM,54 °F,52 °F,94 %,NNW,10 mph,-,22.17 in,-,T-Storm
+8,7:19 PM,57 °F,52 °F,82 %,N,17 mph,-,22.17 in,-,Light Rain with Thunder
+9,7:15 PM,61 °F,57 °F,88 %,N,12 mph,-,22.17 in,-,Thunder
+10,6:44 PM,64 °F,54 °F,68 %,N,6 mph,-,22.16 in,-,Cloudy
+11,5:45 PM,66 °F,55 °F,68 %,S,8 mph,-,22.14 in,-,Mostly Cloudy
+12,5:35 PM,66 °F,54 °F,64 %,W,9 mph,-,22.14 in,-,Mostly Cloudy
+13,4:43 PM,70 °F,54 °F,56 %,SSE,12 mph,-,22.13 in,-,Mostly Cloudy
+14,3:40 PM,72 °F,48 °F,43 %,CALM,0 mph,-,22.13 in,-,Mostly Cloudy
+15,2:41 PM,70 °F,50 °F,49 %,NNE,6 mph,-,22.13 in,-,Mostly Cloudy
+16,1:41 PM,72 °F,50 °F,46 %,WNW,8 mph,-,22.16 in,-,Mostly Cloudy
+17,12:40 PM,70 °F,50 °F,49 %,NW,3 mph,-,22.19 in,-,Mostly Cloudy
+18,11:45 AM,68 °F,52 °F,56 %,W,2 mph,-,22.2 in,-,Mostly Cloudy
+19,10:41 AM,64 °F,50 °F,59 %,WNW,8 mph,-,22.21 in,-,Mostly Cloudy
+20,9:42 AM,63 °F,50 °F,63 %,N,2 mph,-,22.21 in,-,Partly Cloudy
+21,8:46 AM,61 °F,52 °F,72 %,NNW,3 mph,-,22.21 in,-,Partly Cloudy
+22,7:42 AM,55 °F,52 °F,88 %,NE,2 mph,-,22.2 in,-,Fair
+23,6:45 AM,54 °F,52 °F,94 %,E,5 mph,-,22.19 in,-,Mostly Cloudy
+24,6:23 AM,54 °F,52 °F,94 %,E,3 mph,-,22.19 in,-,Cloudy
+25,5:46 AM,54 °F,54 °F,100 %,SSE,3 mph,-,22.19 in,-,Light Rain
+26,5:37 AM,54 °F,54 °F,100 %,ESE,2 mph,-,22.19 in,-,Light Rain
+27,4:46 AM,55 °F,54 °F,94 %,E,5 mph,-,22.19 in,-,Cloudy
+28,3:46 AM,55 °F,54 °F,94 %,E,3 mph,-,22.19 in,-,Cloudy
+29,2:50 AM,55 °F,54 °F,94 %,ESE,2 mph,-,22.19 in,-,Drizzle
+30,1:44 AM,55 °F,54 °F,94 %,SE,6 mph,-,22.21 in,-,Drizzle
+31,12:46 AM,55 °F,54 °F,94 %,SE,7 mph,-,22.21 in,-,Drizzle
