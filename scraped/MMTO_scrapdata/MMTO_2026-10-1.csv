@@ -1,0 +1,33 @@
+,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+0,11:40 PM,54 °F,52 °F,94 %,N,6 mph,-,22.11 in,-,Mostly Cloudy
+1,10:40 PM,52 °F,52 °F,100 %,NNE,3 mph,-,22.12 in,-,Partly Cloudy
+2,9:40 PM,55 °F,54 °F,94 %,WNW,2 mph,-,22.12 in,-,Partly Cloudy
+3,8:40 PM,54 °F,52 °F,94 %,ENE,2 mph,-,22.1 in,-,Partly Cloudy
+4,7:40 PM,55 °F,54 °F,94 %,NNE,6 mph,-,22.08 in,-,Mostly Cloudy
+5,6:40 PM,57 °F,54 °F,88 %,SW,6 mph,-,22.07 in,-,Cloudy
+6,6:31 PM,57 °F,54 °F,88 %,W,8 mph,-,22.07 in,-,Cloudy
+7,5:40 PM,57 °F,54 °F,88 %,WSW,3 mph,-,22.07 in,-,Light Rain with Thunder
+8,4:53 PM,57 °F,54 °F,88 %,NNW,12 mph,-,22.07 in,-,Light Rain with Thunder
+9,4:42 PM,59 °F,52 °F,77 %,W,6 mph,-,22.07 in,-,Thunder
+10,4:40 PM,59 °F,54 °F,82 %,SSW,2 mph,-,22.07 in,-,Thunder
+11,3:52 PM,59 °F,52 °F,77 %,WSW,9 mph,-,22.04 in,-,Light Rain with Thunder
+12,3:46 PM,61 °F,54 °F,77 %,WNW,23 mph,-,22.04 in,-,Thunder / Windy
+13,3:44 PM,63 °F,54 °F,72 %,W,17 mph,-,22.04 in,-,Thunder
+14,3:42 PM,66 °F,54 °F,64 %,W,14 mph,-,22.05 in,-,Thunder
+15,2:40 PM,70 °F,54 °F,56 %,ESE,3 mph,-,22.05 in,-,Cloudy
+16,1:47 PM,70 °F,55 °F,60 %,NNW,5 mph,-,22.08 in,-,Mostly Cloudy
+17,1:06 PM,66 °F,55 °F,68 %,WSW,3 mph,-,22.13 in,-,Cloudy
+18,11:47 AM,66 °F,55 °F,68 %,WSW,3 mph,-,22.13 in,-,Cloudy
+19,10:43 AM,64 °F,55 °F,73 %,WNW,3 mph,-,22.14 in,-,Cloudy
+20,9:43 AM,63 °F,54 °F,72 %,CALM,0 mph,-,22.14 in,-,Cloudy
+21,9:29 AM,61 °F,55 °F,82 %,CALM,0 mph,-,22.14 in,-,Cloudy
+22,8:42 AM,59 °F,55 °F,88 %,CALM,0 mph,-,22.15 in,-,Mist
+23,7:45 AM,55 °F,54 °F,94 %,CALM,0 mph,-,22.13 in,-,Mist
+24,7:28 AM,54 °F,54 °F,100 %,CALM,0 mph,-,22.13 in,-,Mist
+25,6:46 AM,54 °F,54 °F,100 %,N,3 mph,-,22.12 in,-,Cloudy
+26,5:52 AM,55 °F,54 °F,94 %,W,2 mph,-,22.12 in,-,Cloudy
+27,4:41 AM,55 °F,54 °F,94 %,NE,2 mph,-,22.11 in,-,Mostly Cloudy
+28,3:46 AM,54 °F,54 °F,100 %,N,2 mph,-,22.11 in,-,Mist
+29,2:44 AM,54 °F,54 °F,100 %,SE,3 mph,-,22.11 in,-,Mostly Cloudy
+30,1:47 AM,55 °F,54 °F,94 %,ESE,3 mph,-,22.13 in,-,Cloudy
+31,12:42 AM,55 °F,55 °F,100 %,NNE,3 mph,-,22.13 in,-,Cloudy
